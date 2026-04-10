@@ -1,0 +1,29 @@
+{
+  "device": "cpu",
+  "comparison_table": {
+    "Random Forest": {
+      "macro_f1": 0.9146,
+      "latency_ms_per_sample": 21.064,
+      "size_mb": 27.19
+    },
+    "DistilBERT": {
+      "macro_f1": 0.993,
+      "latency_ms_per_sample": 8.144,
+      "size_mb": 255.68
+    }
+  },
+  "latency_ratio_bert_over_rf": 0.39,
+  "conclusion": "RF chosen for extension deployment due to ~0x latency advantage with ~8.6% macro-F1 tradeoff vs DistilBERT on this holdout.",
+  "random_forest": {
+    "macro_f1": 0.9146,
+    "latency_ms": 21.064,
+    "model_size_mb": 27.19
+  },
+  "distilbert": {
+    "macro_f1": 0.993,
+    "latency_ms": 8.144,
+    "model_size_mb": 255.68
+  },
+  "deployment_choice": "random_forest",
+  "reason": "0x latency advantage with ~8.6% macro-F1 tradeoff \u2014 chosen for browser extension"
+}

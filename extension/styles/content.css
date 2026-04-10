@@ -1,0 +1,174 @@
+/* DarkShield injected styles — all classes prefixed with ds- */
+
+:root {
+  --ds-fake-urgency: #ff4444;
+  --ds-confirm-shaming: #ff8c00;
+  --ds-hidden-costs: #ffd700;
+  --ds-visual-interference: #9b59b6;
+  --ds-sneaking: #e74c3c;
+  --ds-default: #3498db;
+}
+
+.ds-highlight {
+  position: relative;
+  display: inline;
+  outline: 2px solid rgba(0, 255, 136, 0.35);
+  border-radius: 4px;
+  transition: outline-color 0.25s ease, box-shadow 0.25s ease;
+  animation: ds-row-in 0.35s ease;
+}
+
+.ds-highlight:hover {
+  box-shadow: 0 0 0 3px rgba(0, 255, 136, 0.12);
+}
+
+.ds-tooltip {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 6px);
+  min-width: 220px;
+  max-width: 320px;
+  background: #0d1117;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 1.35;
+  padding: 10px 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  z-index: 2147483646;
+  opacity: 0;
+  transform: translateY(4px);
+  pointer-events: none;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+.ds-tooltip-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.ds-tooltip-title {
+  font-weight: 700;
+  margin-bottom: 4px;
+  text-transform: capitalize;
+}
+
+.ds-tooltip-meta {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 11px;
+  opacity: 0.85;
+  margin-bottom: 6px;
+}
+
+.ds-tooltip-body {
+  opacity: 0.92;
+}
+
+.ds-pulse {
+  animation: ds-pulse 1.2s ease-in-out infinite, ds-row-in 0.35s ease;
+}
+
+@keyframes ds-pulse {
+  0% {
+    outline-offset: 0;
+    outline-color: rgba(255, 68, 68, 0.55);
+  }
+  50% {
+    outline-offset: 2px;
+    outline-color: rgba(255, 68, 68, 0.95);
+  }
+  100% {
+    outline-offset: 0;
+    outline-color: rgba(255, 68, 68, 0.55);
+  }
+}
+
+@keyframes ds-row-in {
+  from {
+    filter: blur(1px);
+    opacity: 0.35;
+  }
+  to {
+    filter: blur(0);
+    opacity: 1;
+  }
+}
+
+@media (max-width: 520px) {
+  .ds-tooltip {
+    max-width: min(320px, 92vw);
+  }
+}
+
+/* On-page summary (real-time heads-up when patterns are found) */
+#darkshield-page-toast {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  max-width: min(360px, calc(100vw - 32px));
+  z-index: 2147483647;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: #0d1117;
+  color: #e6edf3;
+  border: 1px solid rgba(0, 255, 136, 0.45);
+  border-radius: 12px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+  padding: 14px 14px 12px;
+  animation: ds-row-in 0.4s ease;
+}
+
+#darkshield-page-toast .ds-toast-title {
+  font-weight: 800;
+  font-size: 14px;
+  color: #00ff88;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+#darkshield-page-toast .ds-toast-title::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: #00ff88;
+  box-shadow: 0 0 10px #00ff88;
+}
+
+#darkshield-page-toast .ds-toast-body {
+  font-size: 13px;
+  line-height: 1.45;
+  margin-bottom: 10px;
+  opacity: 0.95;
+}
+
+#darkshield-page-toast .ds-toast-list {
+  margin: 6px 0 0;
+  padding-left: 18px;
+}
+
+#darkshield-page-toast .ds-toast-actions {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+#darkshield-page-toast button {
+  font: inherit;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.06);
+  color: #e6edf3;
+}
+
+#darkshield-page-toast button.ds-toast-primary {
+  border-color: rgba(0, 255, 136, 0.5);
+  background: rgba(0, 255, 136, 0.12);
+  color: #00ff88;
+}

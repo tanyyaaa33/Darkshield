@@ -1,0 +1,72 @@
+{
+  "vertical_vs_is_dark": {
+    "chi2": 257.0082098065991,
+    "p_value": 1.722563047493928e-53,
+    "dof": 5,
+    "cramers_v": 0.476275830884139,
+    "interpretation": "Strong",
+    "n": 1133
+  },
+  "per_pattern": {
+    "fake_urgency": {
+      "chi2": 153.65028214799284,
+      "p_value": 2.230157887989004e-31,
+      "dof": 5,
+      "significant_01": true
+    },
+    "confirm_shaming": {
+      "chi2": 109.78166897403895,
+      "p_value": 4.556590464767289e-22,
+      "dof": 5,
+      "significant_01": true
+    },
+    "hidden_costs": {
+      "chi2": 130.12571572120603,
+      "p_value": 2.238189333172302e-26,
+      "dof": 5,
+      "significant_01": true
+    },
+    "visual_interference": {
+      "chi2": 95.75302367132701,
+      "p_value": 4.1455000232983178e-19,
+      "dof": 5,
+      "significant_01": true
+    },
+    "sneaking": {
+      "chi2": 122.85605107874983,
+      "p_value": 7.791520945752747e-25,
+      "dof": 5,
+      "significant_01": true
+    },
+    "forced_continuity": {
+      "chi2": 155.2179086849063,
+      "p_value": 1.0338498220376775e-31,
+      "dof": 5,
+      "significant_01": true
+    },
+    "misdirection": {
+      "chi2": 88.4806312162019,
+      "p_value": 1.400897283230157e-17,
+      "dof": 5,
+      "significant_01": true
+    },
+    "social_proof_manipulation": {
+      "chi2": 113.60825551525512,
+      "p_value": 7.073450352588389e-23,
+      "dof": 5,
+      "significant_01": true
+    },
+    "bait_and_switch": {
+      "chi2": 130.17267587281523,
+      "p_value": 2.187414176331364e-26,
+      "dof": 5,
+      "significant_01": true
+    },
+    "roach_motel": {
+      "chi2": 142.74271656734015,
+      "p_value": 4.6725910254746665e-29,
+      "dof": 5,
+      "significant_01": true
+    }
+  }
+}

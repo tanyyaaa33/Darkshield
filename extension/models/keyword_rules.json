@@ -1,0 +1,101 @@
+{
+  "fake_urgency": [
+    "only",
+    "left",
+    "hurry",
+    "limited time",
+    "limited stock",
+    "ends in",
+    "last chance",
+    "countdown",
+    "flash sale",
+    "expires",
+    "sirf",
+    "jaldi",
+    "people viewing",
+    "selling fast"
+  ],
+  "confirm_shaming": [
+    "no thanks",
+    "i don't want",
+    "i prefer to pay",
+    "decline savings",
+    "skip rewards",
+    "reject discount",
+    "nahi",
+    "chahiye"
+  ],
+  "hidden_costs": [
+    "convenience fee",
+    "platform fee",
+    "gst",
+    "checkout",
+    "additional charges",
+    "surge",
+    "resort fee",
+    "payment page",
+    "final price"
+  ],
+  "visual_interference": [
+    "greyed out",
+    "grayed out",
+    "tiny link",
+    "barely visible",
+    "pre-selected",
+    "preselected",
+    "hard to find",
+    "fake disabled"
+  ],
+  "sneaking": [
+    "auto-added",
+    "auto added",
+    "pre-ticked",
+    "pre ticked",
+    "added to cart",
+    "default selected",
+    "donation",
+    "warranty"
+  ],
+  "forced_continuity": [
+    "auto-renew",
+    "auto renew",
+    "free trial",
+    "subscription",
+    "unless cancelled",
+    "recurring",
+    "renews"
+  ],
+  "misdirection": [
+    "unsubscribe",
+    "buried",
+    "footer",
+    "skip",
+    "below the fold",
+    "retention"
+  ],
+  "social_proof_manipulation": [
+    "people are viewing",
+    "bestseller",
+    "amazon's choice",
+    "rated by",
+    "bought today",
+    "reviews"
+  ],
+  "bait_and_switch": [
+    "advertised",
+    "checkout",
+    "from ₹",
+    "fine print",
+    "excludes",
+    "mrp",
+    "landing"
+  ],
+  "roach_motel": [
+    "hard to cancel",
+    "close account",
+    "delete account",
+    "cancellation fee",
+    "app only",
+    "email support"
+  ]
+}

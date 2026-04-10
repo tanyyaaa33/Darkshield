@@ -1,0 +1,11 @@
+# Optional: only for ``ml/models/bert_benchmark.py`` (DistilBERT fine-tuning).
+# Install after ``requirements.txt``:
+#   pip install -r requirements-bert.txt
+#
+# On Python 3.14, if ``tokenizers`` still builds from source, use Python 3.12:
+#   python3.12 -m venv .venv && source .venv/bin/activate
+#   pip install -r requirements.txt -r requirements-bert.txt
+torch>=2.9.0,<3
+transformers>=4.48.0,<5
+safetensors>=0.4.0
+accelerate>=0.26.0

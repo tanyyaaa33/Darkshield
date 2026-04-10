@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DarkShield</title>
+    <link rel="stylesheet" href="styles/popup.css" />
+  </head>
+  <body>
+    <header>
+      <img src="icons/icon.png" alt="DarkShield" />
+      <div>
+        <div class="title">DarkShield</div>
+        <div class="sub" id="ds-domain">—</div>
+      </div>
+    </header>
+    <main>
+      <div class="card">
+        <div class="gauge" id="ds-gauge" style="--score: 0">
+          <div class="gauge-inner">
+            <div class="score" id="ds-score">0</div>
+            <div class="label" id="ds-risk">Relatively Safe</div>
+          </div>
+        </div>
+        <div class="label" style="margin-top: 6px">Manipulation score (transparency DB)</div>
+      </div>
+
+      <div class="card">
+        <div style="font-weight: 700; margin-bottom: 6px">Patterns on this page</div>
+        <div id="ds-breakdown"></div>
+      </div>
+
+      <div class="card">
+        <div style="font-weight: 700; margin-bottom: 6px">Detailed view</div>
+        <p class="label" style="text-align: left; margin-bottom: 8px">
+          Expand each pattern for a short explanation and the exact text snippets detected on this page.
+        </p>
+        <div id="ds-details"></div>
+      </div>
+
+      <div class="card" id="ds-regulatory-wrap" style="display: none; border-color: rgba(255, 184, 0, 0.35)">
+        <div style="font-weight: 700; margin-bottom: 6px; color: #ffb800">Regulatory risk</div>
+        <div id="ds-regulatory" class="label" style="line-height: 1.45"></div>
+      </div>
+
+      <button class="primary" id="ds-open-dashboard" type="button">View Full Report</button>
+      <button id="ds-report-fp" type="button">Report False Positive</button>
+
+      <div class="toggle">
+        <div>Highlighting on this site</div>
+        <input type="checkbox" id="ds-toggle-highlight" checked />
+      </div>
+    </main>
+    <footer>
+      API: <span id="ds-api">http://127.0.0.1:5000</span> · Offline DB may show 0 until you run
+      <code>ml/models/evaluate.py</code>
+    </footer>
+    <script src="popup.js"></script>
+  </body>
+</html>

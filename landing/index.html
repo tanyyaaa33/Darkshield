@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DarkShield API</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #0d1117;
+        --fg: #e6edf3;
+        --muted: #8b949e;
+        --accent: #00ff88;
+        --card: #161b22;
+        --border: #30363d;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        background: var(--bg);
+        color: var(--fg);
+        font-family: "JetBrains Mono", ui-monospace, monospace;
+        font-size: 15px;
+        line-height: 1.55;
+      }
+      a {
+        color: var(--accent);
+      }
+      header {
+        border-bottom: 1px solid var(--border);
+        padding: 28px 6vw;
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        flex-wrap: wrap;
+      }
+      .shield {
+        width: 48px;
+        height: 48px;
+        border: 3px solid var(--accent);
+        border-radius: 10px 10px 4px 10px;
+        display: grid;
+        place-items: center;
+        font-weight: 700;
+        color: var(--accent);
+        font-size: 22px;
+      }
+      h1 {
+        margin: 0;
+        font-size: clamp(1.4rem, 3vw, 2rem);
+        letter-spacing: -0.02em;
+      }
+      .tag {
+        color: var(--muted);
+        font-size: 0.85rem;
+      }
+      main {
+        max-width: 920px;
+        margin: 0 auto;
+        padding: 36px 6vw 80px;
+      }
+      h2 {
+        font-size: 1.05rem;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: var(--muted);
+        margin: 48px 0 16px;
+      }
+      .hero {
+        border: 1px solid var(--border);
+        background: var(--card);
+        padding: 28px;
+        margin-top: 8px;
+      }
+      .demo {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-top: 18px;
+      }
+      input[type="text"] {
+        flex: 1 1 220px;
+        min-width: 200px;
+        padding: 12px 14px;
+        background: var(--bg);
+        border: 1px solid var(--border);
+        color: var(--fg);
+        font-family: inherit;
+        font-size: 14px;
+      }
+      button {
+        padding: 12px 20px;
+        background: var(--accent);
+        color: #0d1117;
+        border: none;
+        font-family: inherit;
+        font-weight: 700;
+        cursor: pointer;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        font-size: 12px;
+      }
+      button:hover {
+        filter: brightness(1.08);
+      }
+      .card {
+        border: 1px solid var(--border);
+        background: var(--card);
+        padding: 20px;
+        margin-top: 14px;
+        font-size: 14px;
+      }
+      .ticker {
+        display: flex;
+        gap: 32px;
+        flex-wrap: wrap;
+        margin: 24px 0;
+        padding: 16px 0;
+        border-top: 1px solid var(--border);
+        border-bottom: 1px solid var(--border);
+        font-size: 13px;
+      }
+      .ticker strong {
+        color: var(--accent);
+      }
+      pre {
+        background: var(--bg);
+        border: 1px solid var(--border);
+        padding: 16px;
+        overflow-x: auto;
+        font-size: 12px;
+        margin: 12px 0 0;
+      }
+      footer {
+        padding: 24px 6vw;
+        border-top: 1px solid var(--border);
+        color: var(--muted);
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="shield" aria-hidden="true">D</div>
+      <div>
+        <h1>DarkShield API</h1>
+        <div class="tag">Check Indian e-commerce sites for dark-pattern signals — transparency layer</div>
+      </div>
+    </header>
+    <main>
+      <section class="hero">
+        <p style="margin: 0 0 8px">
+          Public JSON endpoints for manipulation scores, leaderboards, and aggregate stats. Pair with the Chrome extension
+          for on-page detection.
+        </p>
+        <div class="ticker" id="ds-ticker">
+          <span>Loading stats…</span>
+        </div>
+        <div class="demo">
+          <input type="text" id="ds-domain" placeholder="domain e.g. amazon.in" value="amazon.in" />
+          <button type="button" id="ds-run">Fetch score</button>
+        </div>
+        <div class="card" id="ds-result" style="display: none"></div>
+      </section>
+
+      <h2>Live demo</h2>
+      <p class="tag">Default API base (change if you host elsewhere):</p>
+      <input type="text" id="ds-base" style="width: 100%; max-width: 520px; margin-top: 8px" value="http://127.0.0.1:5000" />
+
+      <h2>Install extension</h2>
+      <p>
+        Load the unpacked extension from the <code>extension/</code> folder in this repository (Chrome → Extensions →
+        Developer mode).
+      </p>
+
+      <h2>API quick reference</h2>
+      <pre>curl "${BASE}/api/v1/score?domain=amazon.in"
+curl "${BASE}/api/v1/leaderboard?vertical=travel&amp;limit=10"
+curl "${BASE}/api/v1/categories"
+curl "${BASE}/api/v1/stats"</pre>
+      <p class="tag">See <code>API_DOCS.md</code> for full documentation including <code>/api/classify</code> and compliance reporting.</p>
+    </main>
+    <footer>DarkShield — research / educational tooling. Not legal advice.</footer>
+    <script>
+      const $ = (id) => document.getElementById(id);
+
+      async function refreshTicker() {
+        const base = $("ds-base").value.replace(/\/$/, "");
+        const el = $("ds-ticker");
+        try {
+          const r = await fetch(base + "/api/v1/stats");
+          const j = await r.json();
+          el.innerHTML = `<span><strong>${j.patterns_detected ?? "—"}</strong> patterns logged</span>
+            <span><strong>${j.sites ?? "—"}</strong> sites tracked</span>
+            <span>Top pattern: <strong>${j.top_pattern ?? "—"}</strong></span>`;
+        } catch {
+          el.innerHTML = `<span>Stats unavailable — start the Flask API</span>`;
+        }
+      }
+
+      $("ds-run").addEventListener("click", async () => {
+        const base = $("ds-base").value.replace(/\/$/, "");
+        const domain = $("ds-domain").value.trim() || "amazon.in";
+        const out = $("ds-result");
+        out.style.display = "block";
+        out.textContent = "Loading…";
+        try {
+          const r = await fetch(base + "/api/v1/score?domain=" + encodeURIComponent(domain));
+          const j = await r.json();
+          out.innerHTML =
+            "<strong>" +
+            j.domain +
+            "</strong><br/>Score: " +
+            (j.manipulation_score ?? "—") +
+            " · Risk: " +
+            (j.risk_level ?? "—") +
+            "<br/>Top patterns: " +
+            (j.top_patterns || []).join(", ") +
+            "<br/><pre style='margin-top:10px'>" +
+            JSON.stringify(j, null, 2) +
+            "</pre>";
+        } catch (e) {
+          out.textContent = "Request failed — is the API running? " + e;
+        }
+      });
+
+      $("ds-base").addEventListener("change", refreshTicker);
+      refreshTicker();
+    </script>
+  </body>
+</html>

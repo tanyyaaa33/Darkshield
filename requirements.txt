@@ -1,0 +1,34 @@
+# Pin ranges for reproducibility; Python 3.10–3.12 have the widest wheel coverage.
+# Python 3.13+ often needs newer torch/onnxruntime pins (see below).
+flask==3.0.0
+flask-cors==4.0.0
+flask-limiter==3.5.0
+selenium==4.18.1
+pandas>=2.2.0
+numpy>=1.26.4
+scikit-learn>=1.4.0
+nltk==3.8.1
+scipy>=1.12.0
+seaborn>=0.13.2
+matplotlib>=3.8.0
+streamlit>=1.40.0
+plotly==5.18.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+python-dotenv==1.0.1
+webdriver-manager==4.0.1
+joblib>=1.4.2
+# DistilBERT / HuggingFace: not in this file — old transformers pins pull tokenizers
+# that often lack wheels on Python 3.14 and try to compile Rust. Use:
+#   pip install -r requirements-bert.txt
+#
+# ONNX export toolchain:
+# - Python 3.14+ requires newer ``onnx`` wheels where ``onnx.mapping`` is removed.
+# - Use a newer skl2onnx that no longer imports onnx.mapping.
+skl2onnx>=1.19.0
+# Latest ONNX is ~1.21.x; keep in that compatible range.
+onnx>=1.20.0,<1.22
+# onnxruntime 1.17 has no cp314 wheels; use a current 1.24.x build on Python 3.14+.
+onnxruntime>=1.24.1,<2
+schedule==1.2.1
+reportlab==4.1.0

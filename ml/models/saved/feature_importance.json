@@ -1,0 +1,82 @@
+[
+  {
+    "feature": "com",
+    "importance": 0.014439789870097546
+  },
+  {
+    "feature": "message",
+    "importance": 0.009646720907127615
+  },
+  {
+    "feature": "misdirection",
+    "importance": 0.009241768857466836
+  },
+  {
+    "feature": "preselection",
+    "importance": 0.009210016000447744
+  },
+  {
+    "feature": "message style",
+    "importance": 0.007799200572735436
+  },
+  {
+    "feature": "misdirection style",
+    "importance": 0.007104455152883876
+  },
+  {
+    "feature": "preselection style",
+    "importance": 0.007078540775179632
+  },
+  {
+    "feature": "on",
+    "importance": 0.005921773381944701
+  },
+  {
+    "feature": "confirm",
+    "importance": 0.005438031727596576
+  },
+  {
+    "feature": "disguised",
+    "importance": 0.005152049806929494
+  },
+  {
+    "feature": "forced",
+    "importance": 0.005135293116036188
+  },
+  {
+    "feature": "costs",
+    "importance": 0.00503269501574968
+  },
+  {
+    "feature": "into",
+    "importance": 0.005026552634907085
+  },
+  {
+    "feature": "interference style",
+    "importance": 0.004828015337135674
+  },
+  {
+    "feature": "shaming style",
+    "importance": 0.004495497588140949
+  },
+  {
+    "feature": "confirm shaming",
+    "importance": 0.004336304449905702
+  },
+  {
+    "feature": "interference",
+    "importance": 0.004300024109279459
+  },
+  {
+    "feature": "visual interference",
+    "importance": 0.004296103019912051
+  },
+  {
+    "feature": "shaming",
+    "importance": 0.004233460334889787
+  },
+  {
+    "feature": "prevention style",
+    "importance": 0.004229387387962235
+  }
+]

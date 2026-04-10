@@ -1,0 +1,36 @@
+{
+  "baseline_macro_f1_dark_slice": 0.9835265140538973,
+  "n_samples": 100,
+  "results": [
+    {
+      "transform": "leet_speak",
+      "f1_drop": 0.0,
+      "obfuscated_f1": 0.9835,
+      "vulnerable": "Low"
+    },
+    {
+      "transform": "unicode_substitution",
+      "f1_drop": 0.0885,
+      "obfuscated_f1": 0.895,
+      "vulnerable": "Low"
+    },
+    {
+      "transform": "css_hidden_text",
+      "f1_drop": 0.0,
+      "obfuscated_f1": 0.9835,
+      "vulnerable": "Low"
+    },
+    {
+      "transform": "zero_width_chars",
+      "f1_drop": 0.0,
+      "obfuscated_f1": 0.9835,
+      "vulnerable": "Low"
+    },
+    {
+      "transform": "split_words",
+      "f1_drop": 0.4763,
+      "obfuscated_f1": 0.5073,
+      "vulnerable": "HIGH RISK"
+    }
+  ]
+}

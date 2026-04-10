@@ -1,0 +1,72 @@
+{
+  "manifest_version": 3,
+  "name": "DarkShield",
+  "version": "1.0.0",
+  "description": "Real-time dark pattern detection on Indian e-commerce",
+  "permissions": ["activeTab", "storage", "scripting"],
+  "host_permissions": [
+    "*://amazon.in/*",
+    "*://www.amazon.in/*",
+    "*://flipkart.com/*",
+    "*://www.flipkart.com/*",
+    "*://makemytrip.com/*",
+    "*://www.makemytrip.com/*",
+    "*://zomato.com/*",
+    "*://www.zomato.com/*",
+    "*://myntra.com/*",
+    "*://www.myntra.com/*",
+    "*://nykaa.com/*",
+    "*://www.nykaa.com/*",
+    "*://swiggy.com/*",
+    "*://www.swiggy.com/*",
+    "*://irctc.co.in/*",
+    "*://www.irctc.co.in/*",
+    "http://localhost:5000/*",
+    "http://127.0.0.1:5000/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://amazon.in/*",
+        "*://www.amazon.in/*",
+        "*://flipkart.com/*",
+        "*://www.flipkart.com/*",
+        "*://makemytrip.com/*",
+        "*://www.makemytrip.com/*",
+        "*://zomato.com/*",
+        "*://www.zomato.com/*",
+        "*://myntra.com/*",
+        "*://www.myntra.com/*",
+        "*://nykaa.com/*",
+        "*://www.nykaa.com/*"
+      ],
+      "js": [
+        "utils/classifier.js",
+        "utils/highlighter.js",
+        "utils/onnx_classifier.js",
+        "content.js"
+      ],
+      "css": ["styles/content.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "DarkShield",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
+    }
+  },
+  "options_page": "options.html",
+  "web_accessible_resources": [
+    {
+      "resources": ["models/*.onnx", "models/*.json", "vendor/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
