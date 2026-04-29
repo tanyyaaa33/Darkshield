@@ -16,24 +16,37 @@
     </header>
     <main>
       <div class="card">
+        <div class="section-title">Manipulation Risk</div>
+        <p class="section-help">What this means: overall persuasion pressure estimated for this domain.</p>
         <div class="gauge" id="ds-gauge" style="--score: 0">
           <div class="gauge-inner">
             <div class="score" id="ds-score">0</div>
             <div class="label" id="ds-risk">Relatively Safe</div>
           </div>
         </div>
-        <div class="label" style="margin-top: 6px">Manipulation score (transparency DB)</div>
+        <div class="friendly-note">This page may be using persuasion tactics. Review highlighted snippets before you decide.</div>
       </div>
 
       <div class="card">
-        <div style="font-weight: 700; margin-bottom: 6px">Patterns on this page</div>
+        <div class="section-title">Pattern Breakdown</div>
+        <p class="section-help">Why it matters: pattern mix shows how the page tries to influence behavior.</p>
         <div id="ds-breakdown"></div>
       </div>
 
       <div class="card">
-        <div style="font-weight: 700; margin-bottom: 6px">Detailed view</div>
+        <div class="toggle-row">
+          <div>
+            <div class="section-title" style="margin-bottom: 2px">Explanation View</div>
+            <p class="section-help">Switch between quick summary and deep evidence.</p>
+          </div>
+          <label class="view-toggle">
+            <span>Simple</span>
+            <input type="checkbox" id="ds-detailed-toggle" />
+            <span>Detailed</span>
+          </label>
+        </div>
         <p class="label" style="text-align: left; margin-bottom: 8px">
-          Expand each pattern for a short explanation and the exact text snippets detected on this page.
+          Each item includes what it means, why it matters, and real text evidence from this page.
         </p>
         <div id="ds-details"></div>
       </div>
@@ -52,8 +65,7 @@
       </div>
     </main>
     <footer>
-      API: <span id="ds-api">http://127.0.0.1:5000</span> · Offline DB may show 0 until you run
-      <code>ml/models/evaluate.py</code>
+      API: <span id="ds-api">http://127.0.0.1:5001</span> · If score is 0, run <code>ml/models/evaluate.py</code> to refresh local data.
     </footer>
     <script src="popup.js"></script>
   </body>

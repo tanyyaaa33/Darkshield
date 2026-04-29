@@ -2,7 +2,7 @@
  * DarkShield content script: DOM scan, local ONNX or API classification, highlighting.
  */
 
-let DS_API = "http://127.0.0.1:5000/api/classify";
+let DS_API = "http://127.0.0.1:5001/api/classify";
 
 const DS_EXPLANATIONS = {
   fake_urgency: "Uses scarcity or countdown language to rush a purchase decision.",
@@ -30,11 +30,28 @@ function dsCollectTextNodes(root) {
       if (t.length < 12) return NodeFilter.FILTER_REJECT;
       const p = node.parentElement;
       if (!p) return NodeFilter.FILTER_REJECT;
+      if (p.getAttribute("aria-hidden") === "true" || p.hidden) return NodeFilter.FILTER_REJECT;
       const tag = p.tagName;
       if (["SCRIPT", "STYLE", "NOSCRIPT", "TEXTAREA", "SVG"].includes(tag)) {
         return NodeFilter.FILTER_REJECT;
       }
-      if (p.closest && p.closest(".ds-highlight")) return NodeFilter.FILTER_REJECT;
+      if (p.closest && p.closest(".darkshield-highlight")) return NodeFilter.FILTER_REJECT;
+      const style = window.getComputedStyle(p);
+      if (
+        style.display === "none" ||
+        style.visibility === "hidden" ||
+        style.opacity === "0" ||
+        style.pointerEvents === "none"
+      ) {
+        return NodeFilter.FILTER_REJECT;
+      }
+      const rect = p.getBoundingClientRect();
+      if (!rect || rect.width < 24 || rect.height < 10 || rect.height > 160) {
+        return NodeFilter.FILTER_REJECT;
+      }
+      if (style.position === "fixed" && rect.height > 80) {
+        return NodeFilter.FILTER_REJECT;
+      }
       return NodeFilter.FILTER_ACCEPT;
     },
   });
@@ -105,6 +122,39 @@ function dsShowPageSummaryToast(flagged, enabled) {
   });
 }
 
+function dsNormText(value) {
+  return String(value || "").replace(/\s+/g, " ").trim().toLowerCase();
+}
+
+function dsFindHighlightElement(query = {}) {
+  const all = Array.from(document.querySelectorAll(".darkshield-highlight"));
+  if (!all.length) return null;
+  const label = String(query.label || "").trim();
+  const index = Number.isFinite(Number(query.index)) ? Number(query.index) : 0;
+  const targetText = dsNormText(query.text || "");
+  const byLabel = label ? all.filter((el) => el.dataset.dsCategory === label) : all;
+  if (!byLabel.length) return null;
+  if (targetText) {
+    const byText = byLabel.filter((el) => dsNormText(el.textContent).includes(targetText));
+    if (byText.length) return byText[Math.max(0, Math.min(index, byText.length - 1))];
+  }
+  return byLabel[Math.max(0, Math.min(index, byLabel.length - 1))];
+}
+
+function dsFocusHighlight(query) {
+  const target = dsFindHighlightElement(query);
+  if (!target) return false;
+  target.scrollIntoView({ behavior: "smooth", block: "center", inline: "nearest" });
+  target.classList.add("darkshield-focus-target");
+  const tip = target.querySelector(".darkshield-tooltip");
+  if (tip) tip.classList.add("darkshield-tooltip-visible");
+  setTimeout(() => {
+    target.classList.remove("darkshield-focus-target");
+    if (tip) tip.classList.remove("darkshield-tooltip-visible");
+  }, 1800);
+  return true;
+}
+
 async function dsPostClassify(batch, pageUrl) {
   const res = await fetch(DS_API, {
     method: "POST",
@@ -141,7 +191,7 @@ async function dsRunScan() {
   const showSummary = cfg.dsPageSummaryToast !== false;
   const mode = cfg.inference_mode || "local";
 
-  const base = (cfg.dsApiBase || "http://127.0.0.1:5000").replace(/\/$/, "");
+  const base = (cfg.dsApiBase || "http://127.0.0.1:5001").replace(/\/$/, "");
   DS_API = `${base}/api/classify`;
 
   const items = dsCollectTextNodes(document.body);
@@ -223,3 +273,9 @@ function dsSetupObserver() {
   await dsRunScan();
   dsSetupObserver();
 })();
+
+chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
+  if (!msg || msg.type !== "DS_FOCUS_PATTERN") return;
+  const ok = dsFocusHighlight(msg.payload || {});
+  sendResponse({ ok });
+});

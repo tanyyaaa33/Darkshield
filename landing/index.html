@@ -3,21 +3,24 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>DarkShield API</title>
+    <title>DarkShield</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
     <style>
       :root {
-        --bg: #0d1117;
-        --fg: #e6edf3;
-        --muted: #8b949e;
-        --accent: #00ff88;
-        --card: #161b22;
-        --border: #30363d;
+        --bg: #0f1420;
+        --fg: #eaf0fa;
+        --muted: #9facbf;
+        --accent: #7ea4ff;
+        --card: #171f2d;
+        --border: #2c3548;
+        --green: #00d58a;
+        --yellow: #ffbe3d;
+        --red: #ff4f6d;
       }
       * {
         box-sizing: border-box;
@@ -27,15 +30,16 @@
         min-height: 100vh;
         background: var(--bg);
         color: var(--fg);
-        font-family: "JetBrains Mono", ui-monospace, monospace;
+        font-family: "Inter", ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
         font-size: 15px;
         line-height: 1.55;
+        background-image: radial-gradient(900px 400px at 10% -10%, rgba(126, 164, 255, 0.2), transparent 50%);
       }
       a {
         color: var(--accent);
       }
       header {
-        border-bottom: 1px solid var(--border);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
         padding: 28px 6vw;
         display: flex;
         align-items: center;
@@ -45,7 +49,7 @@
       .shield {
         width: 48px;
         height: 48px;
-        border: 3px solid var(--accent);
+        border: 2px solid var(--accent);
         border-radius: 10px 10px 4px 10px;
         display: grid;
         place-items: center;
@@ -63,7 +67,7 @@
         font-size: 0.85rem;
       }
       main {
-        max-width: 920px;
+        max-width: 1020px;
         margin: 0 auto;
         padding: 36px 6vw 80px;
       }
@@ -76,9 +80,11 @@
       }
       .hero {
         border: 1px solid var(--border);
-        background: var(--card);
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.01));
+        border-radius: 16px;
         padding: 28px;
         margin-top: 8px;
+        box-shadow: 0 18px 38px rgba(0, 0, 0, 0.25);
       }
       .demo {
         display: flex;
@@ -99,14 +105,14 @@
       button {
         padding: 12px 20px;
         background: var(--accent);
-        color: #0d1117;
+        color: #071024;
         border: none;
         font-family: inherit;
         font-weight: 700;
         cursor: pointer;
-        text-transform: uppercase;
-        letter-spacing: 0.06em;
-        font-size: 12px;
+        letter-spacing: 0.01em;
+        font-size: 13px;
+        border-radius: 10px;
       }
       button:hover {
         filter: brightness(1.08);
@@ -115,8 +121,18 @@
         border: 1px solid var(--border);
         background: var(--card);
         padding: 20px;
+        border-radius: 14px;
         margin-top: 14px;
         font-size: 14px;
+        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 14px;
+      }
+      .muted {
+        color: var(--muted);
       }
       .ticker {
         display: flex;
@@ -130,6 +146,21 @@
       }
       .ticker strong {
         color: var(--accent);
+      }
+      .step {
+        display: flex;
+        gap: 10px;
+      }
+      .chip {
+        width: 24px;
+        height: 24px;
+        border-radius: 999px;
+        background: rgba(126, 164, 255, 0.18);
+        color: #c0d3ff;
+        display: grid;
+        place-items: center;
+        font-weight: 700;
+        flex-shrink: 0;
       }
       pre {
         background: var(--bg);
@@ -151,42 +182,79 @@
     <header>
       <div class="shield" aria-hidden="true">D</div>
       <div>
-        <h1>DarkShield API</h1>
-        <div class="tag">Check Indian e-commerce sites for dark-pattern signals — transparency layer</div>
+        <h1>DarkShield</h1>
+        <div class="tag">AI transparency layer for dark-pattern detection in e-commerce</div>
       </div>
     </header>
     <main>
       <section class="hero">
+        <h2 style="margin-top: 0">Spot persuasive UI before it manipulates users.</h2>
         <p style="margin: 0 0 8px">
-          Public JSON endpoints for manipulation scores, leaderboards, and aggregate stats. Pair with the Chrome extension
-          for on-page detection.
+          DarkShield detects risky persuasion patterns, explains what they mean, and gives teams evidence they can act on.
         </p>
+        <div style="margin-top: 14px">
+          <button type="button" id="ds-jump-demo">Try live score demo</button>
+        </div>
         <div class="ticker" id="ds-ticker">
           <span>Loading stats…</span>
         </div>
-        <div class="demo">
-          <input type="text" id="ds-domain" placeholder="domain e.g. amazon.in" value="amazon.in" />
-          <button type="button" id="ds-run">Fetch score</button>
-        </div>
-        <div class="card" id="ds-result" style="display: none"></div>
       </section>
 
-      <h2>Live demo</h2>
-      <p class="tag">Default API base (change if you host elsewhere):</p>
+      <h2>What DarkShield does</h2>
+      <div class="grid">
+        <div class="card">
+          <strong>🧠 Detect</strong>
+          <p class="muted">Finds dark-pattern signals in page text using model + keyword logic.</p>
+        </div>
+        <div class="card">
+          <strong>📊 Score</strong>
+          <p class="muted">Assigns a manipulation score so risk is easier to compare.</p>
+        </div>
+        <div class="card">
+          <strong>🧾 Explain</strong>
+          <p class="muted">Shows what each pattern means, why it matters, and examples.</p>
+        </div>
+      </div>
+
+      <h2>How it works</h2>
+      <div class="grid">
+        <div class="card step"><div class="chip">1</div><div><strong>Scan page copy</strong><div class="muted">The extension/API reads candidate snippets from live pages.</div></div></div>
+        <div class="card step"><div class="chip">2</div><div><strong>Classify patterns</strong><div class="muted">Local ONNX or API model predicts likely manipulation categories.</div></div></div>
+        <div class="card step"><div class="chip">3</div><div><strong>Store + visualize</strong><div class="muted">SQLite + dashboard track trends by domain and vertical.</div></div></div>
+      </div>
+
+      <h2>Example detection</h2>
+      <div class="card">
+        <p><strong>Snippet:</strong> "Only 1 left — offer ends in 00:05:00"</p>
+        <p><strong>What this means:</strong> likely <em>Urgency pressure</em> pattern.</p>
+        <p><strong>Why it matters:</strong> can push rushed decisions and reduce deliberate choice.</p>
+      </div>
+
+      <h2>Why this matters</h2>
+      <div class="grid">
+        <div class="card"><strong style="color: var(--green)">🟢 Low risk</strong><p class="muted">Limited pressure signals detected.</p></div>
+        <div class="card"><strong style="color: var(--yellow)">🟡 Moderate risk</strong><p class="muted">Some persuasive friction worth monitoring.</p></div>
+        <div class="card"><strong style="color: var(--red)">🔴 High risk</strong><p class="muted">Repeated patterns may materially influence user decisions.</p></div>
+      </div>
+
+      <h2 id="live-demo">Live demo</h2>
+      <p class="tag">Check any domain score from your running API instance.</p>
       <input type="text" id="ds-base" style="width: 100%; max-width: 520px; margin-top: 8px" value="http://127.0.0.1:5000" />
+      <div class="demo">
+        <input type="text" id="ds-domain" placeholder="domain e.g. amazon.in" value="amazon.in" />
+        <button type="button" id="ds-run">Fetch score</button>
+      </div>
+      <div class="card" id="ds-result" style="display: none"></div>
 
       <h2>Install extension</h2>
-      <p>
-        Load the unpacked extension from the <code>extension/</code> folder in this repository (Chrome → Extensions →
-        Developer mode).
-      </p>
+      <p>Load unpacked extension from the <code>extension/</code> folder (Chrome → Extensions → Developer mode).</p>
 
       <h2>API quick reference</h2>
       <pre>curl "${BASE}/api/v1/score?domain=amazon.in"
 curl "${BASE}/api/v1/leaderboard?vertical=travel&amp;limit=10"
 curl "${BASE}/api/v1/categories"
 curl "${BASE}/api/v1/stats"</pre>
-      <p class="tag">See <code>API_DOCS.md</code> for full documentation including <code>/api/classify</code> and compliance reporting.</p>
+      <p class="tag">Need full details? See <code>API_DOCS.md</code>.</p>
     </main>
     <footer>DarkShield — research / educational tooling. Not legal advice.</footer>
     <script>
@@ -233,6 +301,9 @@ curl "${BASE}/api/v1/stats"</pre>
       });
 
       $("ds-base").addEventListener("change", refreshTicker);
+      $("ds-jump-demo").addEventListener("click", () => {
+        document.getElementById("live-demo").scrollIntoView({ behavior: "smooth" });
+      });
       refreshTicker();
     </script>
   </body>

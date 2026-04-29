@@ -9,7 +9,7 @@
   --ds-default: #3498db;
 }
 
-.ds-highlight {
+.darkshield-highlight {
   position: relative;
   display: inline;
   outline: 2px solid rgba(0, 255, 136, 0.35);
@@ -18,11 +18,11 @@
   animation: ds-row-in 0.35s ease;
 }
 
-.ds-highlight:hover {
+.darkshield-highlight:hover {
   box-shadow: 0 0 0 3px rgba(0, 255, 136, 0.12);
 }
 
-.ds-tooltip {
+.darkshield-tooltip {
   position: absolute;
   left: 0;
   top: calc(100% + 6px);
@@ -43,30 +43,35 @@
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
 }
 
-.ds-tooltip-visible {
+.darkshield-tooltip-visible {
   opacity: 1;
   transform: translateY(0);
 }
 
-.ds-tooltip-title {
+.darkshield-tooltip-title {
   font-weight: 700;
   margin-bottom: 4px;
   text-transform: capitalize;
 }
 
-.ds-tooltip-meta {
+.darkshield-tooltip-meta {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 11px;
   opacity: 0.85;
   margin-bottom: 6px;
 }
 
-.ds-tooltip-body {
+.darkshield-tooltip-body {
   opacity: 0.92;
 }
 
 .ds-pulse {
   animation: ds-pulse 1.2s ease-in-out infinite, ds-row-in 0.35s ease;
+}
+
+.darkshield-focus-target {
+  box-shadow: 0 0 0 4px rgba(126, 164, 255, 0.35);
+  animation: ds-focus-ring 0.9s ease-in-out 2;
 }
 
 @keyframes ds-pulse {
@@ -95,20 +100,47 @@
   }
 }
 
+@keyframes ds-focus-ring {
+  0% {
+    outline-offset: 0;
+  }
+  50% {
+    outline-offset: 3px;
+  }
+  100% {
+    outline-offset: 0;
+  }
+}
+
 @media (max-width: 520px) {
-  .ds-tooltip {
+  .darkshield-tooltip {
     max-width: min(320px, 92vw);
   }
 }
 
 /* On-page summary (real-time heads-up when patterns are found) */
 #darkshield-page-toast {
+  all: initial;
+  box-sizing: border-box;
+  display: block;
   position: fixed;
   right: 16px;
   bottom: 16px;
-  max-width: min(360px, calc(100vw - 32px));
+  width: min(360px, calc(100vw - 32px));
+  min-width: 280px;
+  max-width: calc(100vw - 32px);
   z-index: 2147483647;
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  letter-spacing: normal;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  writing-mode: horizontal-tb;
+  text-orientation: mixed;
+  direction: ltr;
+  text-align: left;
+  white-space: normal;
   background: #0d1117;
   color: #e6edf3;
   border: 1px solid rgba(0, 255, 136, 0.45);
@@ -119,11 +151,14 @@
 }
 
 #darkshield-page-toast .ds-toast-title {
+  all: initial;
+  box-sizing: border-box;
+  display: flex;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   font-weight: 800;
   font-size: 14px;
   color: #00ff88;
   margin-bottom: 8px;
-  display: flex;
   align-items: center;
   gap: 8px;
 }
@@ -138,18 +173,30 @@
 }
 
 #darkshield-page-toast .ds-toast-body {
+  all: initial;
+  box-sizing: border-box;
+  display: block;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   font-size: 13px;
   line-height: 1.45;
   margin-bottom: 10px;
   opacity: 0.95;
+  color: #e6edf3;
 }
 
 #darkshield-page-toast .ds-toast-list {
+  all: initial;
+  box-sizing: border-box;
+  display: block;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   margin: 6px 0 0;
   padding-left: 18px;
+  color: #e6edf3;
 }
 
 #darkshield-page-toast .ds-toast-actions {
+  all: initial;
+  box-sizing: border-box;
   display: flex;
   gap: 8px;
   justify-content: flex-end;

@@ -1,5 +1,255 @@
 # DarkShield
 
+DarkShield is a premium-style transparency tool that helps teams detect and explain dark patterns in e-commerce interfaces.
+
+---
+
+## 🚀 What is this?
+
+DarkShield combines:
+
+- A **Chrome extension** for on-page detection
+- A **Flask API** for classification and reporting
+- A **Streamlit dashboard** for analytics and trends
+- A local **SQLite database** for persistent evidence
+
+**In one sentence:** it turns manipulative UI signals into readable risk insights with traceable evidence.
+
+---
+
+## 🧠 What problem does it solve?
+
+Dark patterns are design/copy tactics that pressure users into decisions they may not intend (for example: fake urgency, hidden fees, hard cancellation flows).
+
+- **What this means:** users are nudged by friction, pressure, or confusion.
+- **Why it matters:** these patterns can reduce informed consent and trust.
+- **Example:** "Only 1 left" + hidden opt-out path can increase rushed purchases.
+
+---
+
+## ⚙️ How it works (simple version)
+
+1. DarkShield scans UI text snippets on supported domains.
+2. It classifies likely pattern types (local ONNX or API mode).
+3. It stores detections and site scores in SQLite.
+4. Dashboard + extension popup explain:
+   - what was flagged,
+   - why it was flagged,
+   - what risk level it implies.
+
+---
+
+## 🔬 Technical architecture (detailed)
+
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│ Chrome Extension (MV3)                                              │
+│ - content script extracts snippets                                  │
+│ - local ONNX inference or API fallback                              │
+│ - highlights + popup explanations                                   │
+└──────────────────────┬──────────────────────────────────────────────┘
+                       │ classify / report
+                       ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ Flask API                                                           │
+│ - /api/classify, /api/site-score, /api/v1/*                        │
+│ - optional compliance context mapping                               │
+└──────────────────────┬──────────────────────────────────────────────┘
+                       │ writes + reads
+                       ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ SQLite (data/darkshield.db)                                         │
+│ - sites, detections, score_history, user_reports                    │
+└──────────────────────┬──────────────────────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ Streamlit Dashboard                                                  │
+│ - leaderboard, vertical analysis, pattern report, A/B heuristic      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+Core model flow:
+
+- TF-IDF + Random Forest classifier
+- Optional confirm-shaming second pass
+- ONNX export for browser inference
+- Evaluation outputs under `ml/models/saved/eval_results/`
+
+---
+
+## 🧩 Features (grouped clearly)
+
+### Detection + Explanation
+
+- Real-time snippet classification in extension
+- Pattern-specific explanations in popup and dashboard
+- Regulatory context mappings (educational, not legal advice)
+
+### Analytics + Reporting
+
+- Domain leaderboard and risk score
+- Vertical-level comparison and pattern distributions
+- Site deep dive with trend lines and snippets
+
+### Research + Robustness
+
+- DistilBERT benchmark against RF baseline
+- Adversarial robustness scripts
+- Human annotation agreement pipeline
+
+---
+
+## 🛠️ Setup (clean, step-by-step)
+
+### 1) Create and activate environment
+
+```bash
+cd /path/to/darkshield
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -U pip setuptools wheel
+pip install -r requirements.txt
+```
+
+### 2) Optional NLP assets (for augmenter)
+
+```bash
+python -c "import nltk; nltk.download('wordnet', quiet=True); nltk.download('omw-1.4', quiet=True)"
+```
+
+### 3) Optional benchmark dependencies
+
+```bash
+pip install -r requirements-bert.txt
+```
+
+### 4) Browser ONNX runtime files (for local extension mode)
+
+```bash
+npm install
+cp node_modules/onnxruntime-web/dist/ort.min.js extension/vendor/
+cp node_modules/onnxruntime-web/dist/*.wasm extension/vendor/
+```
+
+---
+
+## ▶️ How to run
+
+### A) Run ML pipeline (first time or refresh)
+
+```bash
+source .venv/bin/activate
+python ml/dataset/builder.py
+python ml/models/train.py
+python ml/models/confirm_shaming_nlp.py
+python ml/models/export_onnx.py
+python ml/models/evaluate.py
+```
+
+### B) Run API
+
+```bash
+source .venv/bin/activate
+python -m api.app
+```
+
+If port 5000 is busy:
+
+```bash
+PORT=5001 python -m api.app
+```
+
+### C) Run dashboard
+
+```bash
+source .venv/bin/activate
+streamlit run dashboard/app.py
+```
+
+### D) Load extension
+
+1. Open `chrome://extensions`
+2. Enable **Developer mode**
+3. Click **Load unpacked**
+4. Select the `extension/` folder
+
+---
+
+## 📊 What you will see
+
+### In the extension popup
+
+- **Manipulation Risk** score
+- Pattern breakdown by type + share
+- Expandable details per pattern and snippet
+
+### In dashboard
+
+- Leaderboard of high-risk domains
+- Vertical comparison and pattern distributions
+- Detailed site-level snippet evidence
+- A/B variability heuristic report
+
+---
+
+## 🧪 Research & ML
+
+Key scripts:
+
+- `ml/models/bert_benchmark.py` (DistilBERT comparison)
+- `ml/models/adversarial_test.py` (robustness checks)
+- `ml/dataset/annotation_validator.py` (agreement metrics)
+- `scripts/generate_research_summary.py` (paper draft artifacts)
+
+Main evaluation artifacts:
+
+- `summary.json`, `metrics.json`, `chi_square_results.json`
+- `confusion_matrix.html`, `vertical_manipulation_bar.html`
+- `vertical_pattern_heatmap.png`
+
+---
+
+## ⚠️ Limitations
+
+- Pattern detection is probabilistic, not legal adjudication.
+- Domain support is bounded by extension host permissions.
+- Some manipulative behavior is visual/interaction-only (harder to infer from text).
+- Chi-square findings show association in this dataset, not causality.
+
+---
+
+## 💡 Future improvements
+
+- Wider domain coverage beyond current allowlist
+- Better visual-pattern detection (layout and interaction cues)
+- Human-in-the-loop review workflow in dashboard
+- Time-aware drift monitoring and alerting
+- Richer developer docs for deployment and CI
+
+---
+
+## API quick reference
+
+See full details in [API_DOCS.md](API_DOCS.md).
+
+```bash
+curl -s http://127.0.0.1:5000/api/classify \
+  -H 'Content-Type: application/json' \
+  -d '{"texts":["Only 2 left — ends in 00:15:00"],"include_compliance":true}'
+
+curl -s 'http://127.0.0.1:5000/api/site-score?domain=amazon.in'
+curl -s 'http://127.0.0.1:5000/api/v1/score?domain=amazon.in'
+```
+
+---
+
+## Disclaimer
+
+DarkShield is for research and transparency workflows.
+Regulatory strings are illustrative and are **not legal advice**.
+# DarkShield
+
 DarkShield is a **dark-pattern transparency** stack focused on **Indian e-commerce**: it classifies manipulative UI copy, stores aggregate scores in **SQLite**, exposes a **Flask API**, ships a **Chrome extension (Manifest V3)**, and includes a **Streamlit dashboard** for exploration and reporting.
 
 All data in this repository is **synthetic, rule-labeled, or scraped from public pages for research** — not user PII.

@@ -35,17 +35,17 @@ function dsHighlightTextNode(textNode, category, confidence, explanation) {
   if (!textNode || textNode.nodeType !== Node.TEXT_NODE) return;
   const parent = textNode.parentNode;
   if (!parent) return;
-  if (parent.closest && parent.closest(".ds-highlight")) return;
+  if (parent.closest && parent.closest(".darkshield-highlight")) return;
 
   const span = document.createElement("span");
-  span.className = `ds-highlight ds-${category}${confidence > 0.85 ? " ds-pulse" : ""}`;
+  span.className = `darkshield-highlight ds-${category}${confidence > 0.85 ? " ds-pulse" : ""}`;
   span.style.outlineColor = dsCategoryColor(category);
   span.dataset.dsCategory = category;
   span.dataset.dsConfidence = String(confidence);
   span.dataset.dsExplanation = explanation || "";
 
   const tooltip = document.createElement("div");
-  tooltip.className = "ds-tooltip";
+  tooltip.className = "darkshield-tooltip";
   tooltip.innerHTML = `
     <div class="ds-tooltip-title">${dsHumanCategory(category)}</div>
     <div class="ds-tooltip-meta">${Math.round(confidence * 100)}% confidence</div>
@@ -58,10 +58,10 @@ function dsHighlightTextNode(textNode, category, confidence, explanation) {
   span.appendChild(tooltip);
 
   span.addEventListener("mouseenter", () => {
-    tooltip.classList.add("ds-tooltip-visible");
+    tooltip.classList.add("darkshield-tooltip-visible");
   });
   span.addEventListener("mouseleave", () => {
-    tooltip.classList.remove("ds-tooltip-visible");
+    tooltip.classList.remove("darkshield-tooltip-visible");
   });
 }
 

@@ -1,19 +1,19 @@
 {
-  "evaluated_at": "2026-04-10T18:45:45.485769+00:00",
-  "macro_f1_merged_pred": 0.9363662591037314,
+  "evaluated_at": "2026-04-29T06:30:01.875486+00:00",
+  "macro_f1_merged_pred": 0.9382274932188359,
   "chi2_vertical_dark": {
-    "chi2": 257.0082098065991,
-    "p_value": 1.722563047493928e-53,
+    "chi2": 243.18243183244297,
+    "p_value": 1.5946651981807923e-50,
     "dof": 5,
-    "cramers_v": 0.476275830884139,
+    "cramers_v": 0.4632880984490719,
     "cramers_v_interpretation": "Strong",
     "n": 1133,
     "n_rows": 6,
     "n_cols": 2
   },
   "travel_vs_fmcg": {
-    "chi2": 0.16023018477723336,
-    "p_value": 0.6889446796851405
+    "chi2": 0.5550644233021967,
+    "p_value": 0.4562557253108952
   },
   "contingency_table": {
     "0": {
@@ -25,42 +25,42 @@
       "travel": 36
     },
     "1": {
-      "ecommerce": 788,
+      "ecommerce": 771,
       "electronics": 67,
-      "fashion": 26,
-      "fmcg": 50,
-      "food_delivery": 40,
-      "travel": 68
+      "fashion": 32,
+      "fmcg": 55,
+      "food_delivery": 47,
+      "travel": 67
     }
   },
   "per_pattern_vertical_chi2": {
     "fake_urgency": {
-      "chi2": 153.65028214799284,
-      "p_value": 2.230157887989004e-31,
+      "chi2": 151.93147726324574,
+      "p_value": 5.180077254470317e-31,
       "dof": 5,
       "significant_01": true
     },
     "confirm_shaming": {
-      "chi2": 109.78166897403895,
-      "p_value": 4.556590464767289e-22,
+      "chi2": 115.25663600978912,
+      "p_value": 3.168922059622431e-23,
       "dof": 5,
       "significant_01": true
     },
     "hidden_costs": {
-      "chi2": 130.12571572120603,
-      "p_value": 2.238189333172302e-26,
+      "chi2": 127.9433830993878,
+      "p_value": 6.500336045025665e-26,
       "dof": 5,
       "significant_01": true
     },
     "visual_interference": {
-      "chi2": 95.75302367132701,
-      "p_value": 4.1455000232983178e-19,
+      "chi2": 90.67585469601133,
+      "p_value": 4.8454303248731966e-18,
       "dof": 5,
       "significant_01": true
     },
     "sneaking": {
-      "chi2": 122.85605107874983,
-      "p_value": 7.791520945752747e-25,
+      "chi2": 134.70879691255954,
+      "p_value": 2.381796246098609e-27,
       "dof": 5,
       "significant_01": true
     },
@@ -71,26 +71,26 @@
       "significant_01": true
     },
     "misdirection": {
-      "chi2": 88.4806312162019,
-      "p_value": 1.400897283230157e-17,
+      "chi2": 91.67455497025028,
+      "p_value": 2.988465935513105e-18,
       "dof": 5,
       "significant_01": true
     },
     "social_proof_manipulation": {
-      "chi2": 113.60825551525512,
-      "p_value": 7.073450352588389e-23,
+      "chi2": 86.91506635245004,
+      "p_value": 2.985360504081156e-17,
       "dof": 5,
       "significant_01": true
     },
     "bait_and_switch": {
-      "chi2": 130.17267587281523,
-      "p_value": 2.187414176331364e-26,
+      "chi2": 107.99925985541572,
+      "p_value": 1.084465318373488e-21,
       "dof": 5,
       "significant_01": true
     },
     "roach_motel": {
-      "chi2": 142.74271656734015,
-      "p_value": 4.6725910254746665e-29,
+      "chi2": 141.52526282148463,
+      "p_value": 8.480519670019396e-29,
       "dof": 5,
       "significant_01": true
     }

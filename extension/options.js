@@ -1,4 +1,4 @@
-const DS_API_DEFAULT = "http://127.0.0.1:5000";
+const DS_API_DEFAULT = "http://127.0.0.1:5001";
 
 async function load() {
   const cfg = await chrome.storage.local.get(["dsApiBase", "dsPageSummaryToast", "inference_mode"]);

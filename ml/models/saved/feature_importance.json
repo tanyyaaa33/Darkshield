@@ -1,82 +1,82 @@
 [
   {
     "feature": "com",
-    "importance": 0.014439789870097546
-  },
-  {
-    "feature": "message",
-    "importance": 0.009646720907127615
+    "importance": 0.014078141649212655
   },
   {
     "feature": "misdirection",
-    "importance": 0.009241768857466836
+    "importance": 0.01089003600983915
+  },
+  {
+    "feature": "message",
+    "importance": 0.009280214980962143
   },
   {
     "feature": "preselection",
-    "importance": 0.009210016000447744
+    "importance": 0.007103844623852894
   },
   {
     "feature": "message style",
-    "importance": 0.007799200572735436
-  },
-  {
-    "feature": "misdirection style",
-    "importance": 0.007104455152883876
-  },
-  {
-    "feature": "preselection style",
-    "importance": 0.007078540775179632
+    "importance": 0.006868598343694323
   },
   {
     "feature": "on",
-    "importance": 0.005921773381944701
+    "importance": 0.006827696335085065
   },
   {
-    "feature": "confirm",
-    "importance": 0.005438031727596576
+    "feature": "misdirection style",
+    "importance": 0.006398471265298488
   },
   {
-    "feature": "disguised",
-    "importance": 0.005152049806929494
+    "feature": "preselection style",
+    "importance": 0.006139762626838312
+  },
+  {
+    "feature": "ad",
+    "importance": 0.006105771213824856
   },
   {
     "feature": "forced",
-    "importance": 0.005135293116036188
+    "importance": 0.005060171847355803
   },
   {
-    "feature": "costs",
-    "importance": 0.00503269501574968
+    "feature": "fee",
+    "importance": 0.004936941950703664
   },
   {
-    "feature": "into",
-    "importance": 0.005026552634907085
+    "feature": "disguised ad",
+    "importance": 0.004637312963081188
   },
   {
-    "feature": "interference style",
-    "importance": 0.004828015337135674
+    "feature": "switch",
+    "importance": 0.00454442275687153
   },
   {
-    "feature": "shaming style",
-    "importance": 0.004495497588140949
+    "feature": "and switch",
+    "importance": 0.0043332742821902
   },
   {
-    "feature": "confirm shaming",
-    "importance": 0.004336304449905702
+    "feature": "hidden costs",
+    "importance": 0.0041502271331558555
   },
   {
-    "feature": "interference",
-    "importance": 0.004300024109279459
+    "feature": "disguised",
+    "importance": 0.004122260157054153
   },
   {
-    "feature": "visual interference",
-    "importance": 0.004296103019912051
+    "feature": "bait",
+    "importance": 0.004120365566924222
   },
   {
-    "feature": "shaming",
-    "importance": 0.004233460334889787
+    "feature": "bait and switch",
+    "importance": 0.004033896535569036
   },
   {
-    "feature": "prevention style",
-    "importance": 0.004229387387962235
+    "feature": "bait and",
+    "importance": 0.00393205356884484
+  },
+  {
+    "feature": "and",
+    "importance": 0.003924010648415077
   }
 ]
