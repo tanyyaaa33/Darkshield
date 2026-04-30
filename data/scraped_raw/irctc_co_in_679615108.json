@@ -1,0 +1,1233 @@
+{
+  "url": "https://www.irctc.co.in/nget/train-search",
+  "site": "irctc.co.in",
+  "vertical": "travel",
+  "scraped_at": "2026-04-29T08:58:58.826639+00:00",
+  "records": [
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC – Official Indian Railway Catering & Tourism Corporation Portal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "29-Apr-2026 [14:28:57]",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "LOGIN / REGISTER",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Book Ticket",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Foreign Tourist Booking",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Connecting Journey Booking",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC TRAINS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Group Booking",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Travel Insurance Claim Process",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Cancel E-Ticket",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "PNR Enquiry",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Train Schedule",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Track Your Train",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "FTR Coach/Train Booking",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Dogs/Cats Booking",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Link Your Aadhaar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Counter Ticket Cancellation",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Counter Ticket Boarding Point Change",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Official Mobile Apps",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Rail Connect (Android)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Rail Connect (iOS)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Book Food – E-Pantry",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Order Food - E-Catering",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Cooked Food Menu",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Upto 10% Cashback",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "About IRCTC Loyalty program",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Compare Co-brand Cards",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC SBI Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "About IRCTC SBI Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC BOB Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "About IRCTC BOB Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC BOB RUPAY Credit Card e-Apply",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC HDFC Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "About IRCTC HDFC Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC HDFC RUPAY Credit Card e-Apply",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC RBL Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "About IRCTC RBL Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Apply for IRCTC RBL Bank Credit Card",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Add Loyalty Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "About IRCTC eWallet",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC eWallet User Guide",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "OTHER SERVICES",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC-iPAY",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Tourist Trains",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bharat Gaurav",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Buddhist Circuit Tourist Train",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Maharaja's Express",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Golden Chariot",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Tour Packages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Domestic Packages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "International Packages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Retiring Room",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "e-Wheelchair",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Promotions",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Advertise with us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Banner-Advertisement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Push Notification",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Chat Bot Advertisement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "e-Ticket Advertisement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "SMS(Promotional)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Booking Mail Advertisement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Cancellation Mail Advertisement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mailer(Promotional)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Advertisement Disclaimer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Tourism App",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "National Rail Museum",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "UTS TICKET APP",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Trains At A Glance",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "National Voter\"s Service Portal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Rail Drishti",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indian Railways Magazines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Railways Freight Business Portal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "CONTACT US",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "PNR STATUS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "CHARTS / VACANCY",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "BOOK TICKET",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "DD/MM/YYYY *",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "All Classes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Person With Disability Concession",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Flexible With Date",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Railway Pass Concession",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Search Trains",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "INDIAN RAILWAYS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Punctuality",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Have you not found the right one?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Find a service suitable for you here.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "RAIL DRISHTI",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "E-CATERING",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "HOLIDAY PACKAGES",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "TOURIST TRAIN",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "HILL RAILWAYS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "CHARTER TRAIN",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Maharajas' Express",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Redefining Royalty, Luxury and Comfort, Maharajas' express takes you on a sojourn to the era of bygone stately splendour of princely states. Sylvan furnishings, elegant ambience and modern amenities are amalgamated for an “Experience Unsurpassed”. It has been a winner of “World’s Leading Luxury train” by World Travel Awards consecutively for last six years.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Best deals in International Holiday packages, handpicked by IRCTC, for Thailand, Dubai, Sri Lanka, Hong Kong, China, Macau, Bhutan, Nepal, U.K., Europe, USA, Australia etc. The packages are inclusive of sightseeing, meals, visa charges and overseas medical insurance to give you a hassle-free and memorable experience.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Domestic Air Packages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Be it the spiritual devotee seeking blessings of Tirupati, Shirdi or Mata Vaishno Devi or the leisure traveller wanting to relish the Blue mountains of North East, Sand-dunes of Rajasthan, Hamlets of Ladakh, Wonders of Himalayas, Serene lakes or Picturesque Islands, IRCTC has it all. Discover India through IRCTC!",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bharat Gaurav Tourist Train",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC operates Bharat Gaurav Tourist Train having AC III-Tier accommodation on train specially designed to promote domestic tourism in India. This train runs on various theme based circuits covering pilgrimage and heritage destinations in its itinerary on a 5 days to 20 days trip and showcase India’s rich cultural heritage.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Rail Tour Packages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC offers Exclusive Rail tour packages with confirmed train tickets, sight-seeing and meals for enchanting Nilgiri Mountains, Darjeeling, Kullu Manali, Kashmir, Gangtok or divine tours of Mata Vaishno Devi, Rameswaram, Madurai, Shirdi, Tirupati etc. Holiday packages/ Land packages to these destinations are also available.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Get Connected with us on social networks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Trains",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "General Information",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Important Information",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Official App",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Refund Rules",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Person With Disability Facilities",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Co-branded Card Benefits",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC-iPAY Payment Gateway",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Zone",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "DMRC Ticket Booking at IRCTC",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "For Newly Migrated Agents",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mobile Zone",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ask Disha ChatBot",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Help & Support",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Copyright Â© 2026 - www.irctc.co.in. All Rights Reserved",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Designed and Hosted by",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Compatible Browsers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "DM09AP44MS3",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Google tag (gtag.js)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Easy Booking on AskDisha",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Please Wait...",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Watch a Demo",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Advertise with us!",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "👋 Hi, I'm AskDisha,",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Click to book tickets easily with AI.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "AskDisha 2.0",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "NextGen AI Ticketing",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Search Trains",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Trains",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "General Information",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Important Information",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Agents",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Enquiries",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "How To",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Official App",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Advertise with us",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Refund Rules",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Person With Disability Facilities",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "E-Wallet",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Co-branded Card Benefits",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC-iPAY Payment Gateway",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IRCTC Zone",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "DMRC Ticket Booking at IRCTC",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "For Newly Migrated Agents",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mobile Zone",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Policies",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ask Disha ChatBot",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "About us",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Help & Support",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "E-Pantry",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.irctc.co.in/nget/train-search",
+      "site": "irctc.co.in",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "29-Apr-2026 [14:28:57]",
+      "kind": "timer"
+    }
+  ],
+  "html_length": 104077
+}

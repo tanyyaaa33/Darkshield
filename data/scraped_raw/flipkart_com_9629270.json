@@ -1,0 +1,305 @@
+{
+  "url": "https://www.flipkart.com/travel/flights",
+  "site": "flipkart.com",
+  "vertical": "electronics",
+  "scraped_at": "2026-04-29T08:55:04.633787+00:00",
+  "records": [
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Flight bookings, Cheap flights, Lowest Air tickets at Flipkart.com",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "[if IE 9 ]>\n\t<script nonce=\"11477237393540039754\">\n\t\twindow.browserVersion = 'IE9';\n\t\tdocument.documentElement.className += ' ie9';\n\t</script>\n\t<![endif]",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "[if !IE]><!",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Round Trip",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Popular Cities",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kuala Lumpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Any worldwide city or airport",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Add return date for great deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Travellers | Class",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Contact Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Flipkart Stories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Corporate Information",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "GROUP COMPANIES",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cancellation & Returns",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "CONSUMER POLICY",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Terms Of Use",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Grievance Redressal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "EPR Compliance",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "FSSAI Food Safety Connect App",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Flipkart Internet Private Limited,",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Buildings Alyssa, Begonia &",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Clove Embassy Tech Village,",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Outer Ring Road, Devarabeesanahalli Village,",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bengaluru, 560103,",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Karnataka, India",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Registered Office Address:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "CIN : U51109KA2012PTC066107",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Telephone:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "044-45614700",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "044-67415800",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Become a Seller",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Gift Cards",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Help Center",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "© 2007-2026",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Flipkart.com",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.flipkart.com/travel/flights",
+      "site": "flipkart.com",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SEARCH",
+      "kind": "button"
+    }
+  ],
+  "html_length": 92039
+}

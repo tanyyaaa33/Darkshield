@@ -1,0 +1,2969 @@
+{
+  "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+  "site": "amazon.in",
+  "vertical": "electronics",
+  "scraped_at": "2026-04-29T08:59:30.988321+00:00",
+  "records": [
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:head-start",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:head-start",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-open-part1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-open-part1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:cs-optimization",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:cs-optimization",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-open-part2",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-open-part2",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:aui-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:aui-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-inline-css",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN CSS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-inline-css",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Buy Electronic Products Online with Up to 60% OFF at Amazon.in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "&&&Portal&Delimiter&&&",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:encrypted-slate-token",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:encrypted-slate-token",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:flow-closure-id",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:flow-closure-id",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:start-body",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:start-body",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:body-open",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:body-open",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-inline-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN JS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-inline-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-skeleton",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-skeleton",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:navbar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "navmet initial definition",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Main content",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Keyboard shortcuts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Show/Hide shortcuts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "To move between items, use your keyboard's up or down arrows.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Delivering to Noida 110091",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Update location",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Electronics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Select the department you want to search in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "All Categories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Alexa Skills",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Devices",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fashion",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fresh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fresh Meat",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pharmacy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Appliances",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Apps & Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audible Audiobooks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Car & Motorbike",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Clothing & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Collectibles",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computers & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Garden & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Gift Cards",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Grocery & Gourmet Foods",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home & Kitchen",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Industrial & Scientific",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kindle Store",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Luggage & Bags",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Luxury Beauty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movies & TV Shows",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Musical Instruments",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Office Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Pet Supplies",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Prime Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shoes & Handbags",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sports, Fitness & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Subscribe & Save",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tools & Home Improvement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Toys & Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹500",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Video Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Search Amazon.in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Hello, sign in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Account & Lists",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Today's Deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer Service",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pay",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Beauty & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home Improvement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Custom Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health, Household & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "AmazonBasics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kindle eBooks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Navyaan SWM",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Scheduled SWM widget failed to render",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Mobiles & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Laptops & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "TV & Home Entertainment",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computer Peripherals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Smart Technology",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Office & Stationery",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "nav-linktree-subnav - 'electronics'",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New customer?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Start here.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Lists",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Create a Wish List",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Wish from Any Website",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Baby Wishlist",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Discover Your Style",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Explore Showroom",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Orders",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Wish List",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Keep shopping for",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Recommendations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Prime Membership",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Prime Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Subscribe & Save Items",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Memberships & Subscriptions",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Seller Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Manage Your Content and Devices",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Register for a free Business Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:navbar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:configured-sitewide-before-host-atf-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:configured-sitewide-before-host-atf-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-atf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-atf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN BTF START",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN BTF END",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cameras & Photography",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Car & Vehicle Electronics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "GPS & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home Audio",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home Theater, TV & Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Portable Media Players",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Telephones & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Warranties",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "eBook Readers & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Wearable Technology",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "General Purpose Batteries & Battery Chargers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Headphones, Earbuds & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Power Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Prime",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Prime Eligible",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Delivery Day",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Get It Today",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Get It by Tomorrow",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Portronics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer Reviews",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "4 Stars & Up",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Item Condition",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹1,000",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹1,000 - ₹5,000",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹5,000 - ₹10,000",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹10,000 - ₹20,000",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Over ₹20,000",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deals & Discounts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "All Discounts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Buy More, Save More",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Made for Amazon Brands",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Made for Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Clicktech Retail Private Ltd",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cocoblu Retail",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Clicktech Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "TheGiftKart",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Jaidev Mal And Sons",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Spigen India",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customizable Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customizable",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New Arrivals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Last 30 days",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Last 90 days",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Top Brands in Electronics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Top Brands",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "10% Off or more",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "25% Off or more",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "35% Off or more",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "50% Off or more",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "60% Off or more",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "70% Off or more",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Availability",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Include Out of Stock",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Pay On Delivery",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Eligible for Pay On Delivery",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Previous page",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Up to 80% off | Shop now",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Explore more",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Previous Page",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active White)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL C100SI Wired In Ear Headphones With Mic, Pure Bass Sound, One Button Multi-Function Remote, Premium Metallic Finish, Angled Buds For Comfort Fit (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat Bassheads 900 Pro Wired Headphones with 40Mm Drivers, Lightweight Foldable Design, Over Ear, Remote Control, Unidirectional Retractable Mic, Adjustable Headband & USB Type-A Compatibility(Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat BassHeads 225 in-Ear Super Extra Bass Wired Headphones, with Mic (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat Bassheads 105 Wired in Ear Earphones with Mic (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL Tune 310 Wired in Ear Type C Headphones, Hi-Res Audio with Digital-to-Analog Converter, 3-Button EQ Preset Remote with Microphone, Tangle-Free Flat Cable, Compatible with USB-C Devices (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL C200SI, Premium in Ear Wired Earphones with Mic, Signature Sound, One Button Multi-Function Remote, Premium Metallic Finish, Angled Earbuds for Comfort fit (Gun Metal)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL Tune 310 Wired in Ear Type C Headphones, Hi-Res Audio with Digital-to-Analog Converter, 3-Button EQ Preset Remote with Microphone, Tangle-Free Flat Cable, Compatible with USB-C Devices (Blue)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL C100SI Wired In Ear Headphones with Mic, JBL Pure Bass Sound, One Button Multi-function Remote, Premium Metallic Finish, Angled Buds for Comfort fit (Red)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sennheiser HD 599 Special Edition Open‑Back Audiophile Headphones, German-Irish Craftsmanship, Detachable Cables, E.A.R. Technology for Wide Sound Field, Comfort-Fit for Gaming, 2‑Year Warranty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹20,990.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sennheiser IE 300 Hi-Res Audiophile in Ear Wired Headphones,German Design,7Mm XWB Driver,Detachable MMCX Cable,Rich Bass,Perfect Or Gaming,Noise-Isolating Fit,Silicone & Foam Tips,2Y Warranty,Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹12,989.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹32,990.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sennheiser HD 560S Open-Back Audiophile Over Ear Wired Headphones,Neutral Reference Sound,Angled Transducers,Wide Soundstage,Detachable Cable,Lightweight,Natural Sound for Gaming,2Y Warranty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Dell KM3322W Wireless USB Keyboard and Mouse Combo, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life, 3Y Advance Exchange Warranty - Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP H200 Wireless Headset",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP K120 Wired Keyboard/3 Years RTB Warranty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ZEBRONICS Companion 107 2.4GHz Wireless Keyboard & Mouse Combo, 104 Keys, UV Printed keycaps, 12 Integrated Multimedia Keys, 3 Button Mouse, 1200 DPI, High Precision, Advanced Optical Sensor (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Logitech M186 Wireless Mouse, 2.4GHz with USB Mini Receiver, 3 Years Battery Life, 1000 DPI Optical Tracking, Ambidextrous, Compatible with PC, Mac, Laptop",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Logitech MK215 Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Compact Design, 2-Year Battery Life(Keyboard),5 Month Battery Life(Mouse) PC/Laptop- Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Basics Upgraded 2nd Gen Stylus Pen | Only for iPad 2018-2025 Air 3/4/5/M2/M3, mini 5/6, 6/7/8/9/10/11, Pro 11\", 12.9\" & M4 | White",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP KM120 Wired Mouse and Keyboard Combo (AB3D0AA)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Portronics Toad One Bluetooth Mouse with 2.4 GHz & BT 5.3 Dual Wireless, 6 Buttons, Rechargeable, RGB Lights, Connect 3 Devices, Ergonomic Design for Laptop, Smartphone, Tablet (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Arctic Fox Pureview Transparent Wireless and Bluetooth Rechargeable Mouse, USB Receiver,LED Battery Magic Silm for Office/PC/Mac/Laptop/Apple/ipad(Space Gray)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP M290 Wireless Mouse (AB3C7AA)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Dell KB216 Wired Multimedia Keyboard - Full-Size Layout with USB Interface, Chiclet Keys, Spill Resistance with 3 Indicator Lights| Plug and Play| Hot Keys: Volume, Mute, Play/Pause, Backward, Forward",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fire-Boltt Ninja Call Pro Plus Bluetooth Calling Smart Watch, 1.83″ HD Display, AI Voice Assistant, 120+ Sports Modes, IP67 Waterproof, SpO2 & Heart Rate Monitor Smartwatch for Men & Women - Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹19,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Jet Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat Lunar Discovery w/ 1.39\" (3.5 cm) HD Display, Turn-by-Turn Navigation, DIY Watch Face Studio, Bluetooth Calling, Emergency SOS, QR Tray, Smart Watch for Men & Women(Active Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Gold Link)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Rose Pink)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat Storm Call 3 w/TBT Navigation, Daily Activity Tracker, DIY Watch Face Studio,700+ Active Modes, 1.83\" (4.6 cm) HD Display Fitness Smart Watch for Men & Women(Active Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Midnight Blue)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Rose Pink)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Noise Twist Go Round dial Smartwatch with BT Calling, 1.39\" Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Elite Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Deep Wine)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fire-Boltt Ninja Call Pro Max Bluetooth Calling Smart Watch, 2.01\" HD Display, 120+ Sports Modes, Health Suite, AI Voice Assistance, SpO2 & Heart Rate Monitor Smartwatch for Men & Women - Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹14,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deals on gaming accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP v236w USB 2.0 64GB Pen Drive, Metal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SANDISK Cruzer Blade 64GB, USB 2.0, Flash drive, Pendrive, Red, 5Y Warranty (SDCZ50-064G-I35)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SANDISK Ultra Flair 64GB, USB 3.0, Flash Drive, Upto 150MB/s R, Pendrive, Metal, 5Y Warranty (SDCZ73-064G-I35)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Digitek (DCR-007) USB-A 3.0 & Type C High-Speed Multi-Card Reader Supports All Standard SD/SDHC/SDXC and Micro SD/SDHC/SDXC Cards",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SanDisk Ultra 64GB, USB 3.0, Flash Drive, Upto 130MB/s R, Pendrive, Black, 5Y Warranty (SDCZ48-064G-I35)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Portronics Mport 30 Plus Card Reader with Storage Case for microSD & SD Cards, Type-C & USB Dock Dual Plugs, Carry Case for microSD, SD, SIM Cards and SIM Ejector Tool (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SANDISK Ultra Dual Drive Go Type-C 64GB, OTG, Upto 300MB/s, Pendrive, Navagio Blue, 5Y Warranty (SDDDC3-064G-I46NPD)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP x796w 64GB USB 3.2 Flash Drive",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP v222w 64GB USB 2.0 Pen Drive, Metal Silver",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SANDISK Ultra Dual Drive Luxe Type-C 64GB, OTG, Upto 400MB/s, Pendrive, Silver, 5Y Warranty (SDDDC4-064G-I35)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP 712w 128GB USB 3.2 Flash Drive- Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "EVM EnStore 64GB USB 2.0 Durable Metal Flash Drive | Dependable 15MB/s Read|Rugged Metal Body | Seamless Plug & Play | Laptop Desktop Car Stereo Set-Top Box | 10 Years Warranty (EVMPD/64GB)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ZEBRONICS Blanc Slim Wireless Mouse with Rechargeable Battery, BT + 2.4GHz, 4 Buttons, 800/1200/1600 DPI, Silent Operation, Multicolor LED Lights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ZEBRONICS WAR M, Wired Gaming Mouse with 6 Buttons, High Precision Sensor, up to 4200 DPI, Gold Plated USB Interface, Breathing LED, 1.8m Braided Cable",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ZEBRONICS-Transformer-M with a High-Performance Gold-Plated USB Mouse: 6 Buttons, Multi-Color LED Lights,High-Resolution Sensor with max 3600 DPI, and DPI Switch(Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Zebronics Jet PRO Premium Wired Gaming On Ear Headphone with LED for Headband + earcups, 40mm Neodymium Drivers, 2 Meter Braided Cable, with mic, Suspension Design, 3.5mm + USB Connector (Black, Blue)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Ant Esports GM320 RGB Wired Gaming Mouse, 12800 DPI Optical Sensor, 8 Programmable Buttons with Rapid Fire, Ergonomic Design, RGB Lighting, Braided Cable, USB Gaming Mouse for PC, Laptop (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Ant Esports KM1610 LED Gaming Keyboard and Mouse Combo, 104 Keys Rainbow Backlit Keyboard and 7 Colour RGB Mouse for PC Laptop Xbox PS4 Gamers and Work, White",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Enter Usb Game Pad With Vibration E-Gpv, PC, Gamepad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "amazon basics Rechargeable Wireless Mouse with RGB LED Backlit 1600 DPI Ergonomic Mouse for Laptop, PC",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Ant Esports H520W Smartchoice Gaming Headset with Mic, Wired 3.5mm Over-Ear, 50mm Bass Drivers, Noise Isolating, Lightweight Comfort, Multi-Platform (PC/PS4/Xbox/Switch/Mobile), Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cosmic Byte Nexus Wireless Controller for PC | Dual Vibration, Sensitive Triggers, Fast Response | Powered by 2 AAA Batteries (Not Included) (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cosmic Byte Raptor Dual Mode RGB Mouse, Pixart 3212 Sensor, Upto 4800 DPI, 10 Million Switches, 500Hz Polling Rate, Braided Cable, 11 RGB Effects, PTFE Mouse Feet (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HP M160 USB Wired Gaming Optical Mouse with LED Backlight, 1000 DPI, 3 Buttons and Press Life Up to 3 Million Clicks, 1 Year Warranty (843W8AA, Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "XIAOMI Sound Outdoor Speaker (Black) | 30W Hi-Quality Speaker with Mic | Upto 12hrs Playback Time | IP67 Waterproof & Type C | Wireless Stereo Pairing",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL Go 3 Wireless Portable Bluetooth Mini Speaker, Small Speaker with Pro Sound, Vibrant Colors with Rugged Fabric Design, Lightweight IP67 Waterproof, Type C Interface (Without Mic, Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Portronics SoundDrum P 20W Portable Bluetooth Speaker with 6-7 hrs Playback Time, Handsfree Calling, USB Slot, Aux-in Port, Type C Charging (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Portronics SoundDrum 1 12W TWS Portable Bluetooth Speaker with Powerful Bass, Bluetooth 5.3V, 360° Surround Sound, USB Drive in, Type C Fast Charging(Blue)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat Stone 193 Pro / Stone190 Pro with 5W Signature Sound, Up to 12hrs of Playtime, TWS Feature, Built-in Mic, Bluetooth v5.3, AUX Port, TF Card, IPX6 & Type-C Bluetooth Speaker (Tropical Blue)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL Go 3, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Blue)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "XIAOMI Sound Outdoor Speaker (Blue) | |30W Hi-Quality Speaker with Mic|Upto 12hrs Playback Time|IP67 Waterproof & Type C|Wireless Stereo Pairing|Speaker for Home, Outdoor & Travel Purpose",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL Go 4, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors, Water & Dust Proof, Type C (Without Mic, Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Philips Audio MMS2625B 2.1 Channel, 31 W, Bluetooth Connectivity, Wired Multimedia Computer Speaker, FM, USB, Audio in Speakers, 15mm Subwoofer, Wide Compatibility - MP3 Player, TV, PC (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Zebronics ZEB-COUNTY 3W Wireless Bluetooth Portable Speaker With Supporting Carry Handle, USB, SD Card, AUX, FM & Call Function. (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat Stone 193 Pro /190 Pro with 5W Signature Sound, Up to 12hrs of Playtime, TWS Feature, Built-in Mic, Bluetooth v5.3, AUX Port, TF Card Connectivity, IPX6 & Type-C Bluetooth Speaker(Raging Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Casio FX-82MS 2nd Gen Non-Programmable Scientific Calculator, 240 Functions and 2-line Display",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Casio MJ-12D 150 Steps Check and Correct Desktop Financial Calculator, Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SaleOn 8.3x5 Inch Tech Pouch Organizer with 1 Year Warranty – Portable Storage Organizer for USB Cable, Charger, Earphone, Power Bank, Hard Disk & Digital Gadgets, Travel Mobile Bag for Men",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Brother Toner TN-B021 Has 2600 Pages Yield Compatible with HL-B2000D HL-B2080DW HL-B2100DB HL-B2180DWB DCP-B7500D DCP-B7535DW DCP-B7600DB DCP-B7640DWB DCP-B7620DWB MFC-B7717DW MFC-B7810DWB",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ZEBRONICS ZEB-LPC88A Laser Toner Printer Cartridge for HP Laser Jet P1007/P1008/P1106/P1108, Pro M1136/M1213nf/M1216, Pro M202dw / MFP M128/ M226, Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "FOXIN FTC 88A/CC388A Black Laser Toner Cartridge Compatible for HP Laserjet Printer M1136, MFP, P1007, P1106, P1108, P1008, M1213nf, MFP, M126nw MFP, M1218nfs, M128fw MFP, M128fn , MFP, M226DW, M226DN",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ZEBRONICS ZEB-LPC12A Printer Cartridge for HP LJ 1010/1012/1015/1018/1020/1022/1022N/1022NW/3015/3020/3030/3050/3052/3055/M1005/M1005 / MFP/M1319f MFP, Canon LS LBP2900/2900B/3000",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "rts 2024-2025 Wireless Presenter Laser Power Point PPT Presenter Slide Changer Controller with USB Receiver for Mac/Computer/Laptop Windows Mac PC Presentation Clicker for Keynote/PPT/Google Slides",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Casio Fx-350Ms 2Nd Gen Non-Programmable Scientific Calculator, 240 Functions and 2-Line Display, Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Casio HL820LV-BK Portable Calculator with Flip Cover",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Casio MJ-120D 150 Steps Check and Correct Desktop Calculator with Tax Keys",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Ruaal Green Laser Pointer High Power | Smart USB Rechargeable Laser Light Pen | Laser Light Powerful Long Range 5000m Beam | Laser Pointer for Presentation, Stargazing, Outdoor Use",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fujifilm Instax Mini Picture Format Film (20 Shots)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Syvo WT 3130 Aluminum Tripod (133CM), Universal Lightweight Tripod with Mobile Phone Holder Mount & Carry Bag for All Smart Phones, Gopro, Cameras",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "DIGITEK® (DRL-14C) 14 Inch LED Ring Light with 5ft Stand & Smartphone Mount - USB Powered, Color Switch Mode, Brightness Control, Dual Temperature - for Photo & Video Shoots, Makeup, Vlogging!",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tygot 10 Inches Big LED Ring Light for Camera, Phone tiktok YouTube Video Shooting and Makeup, 10\" inch Ring Light with 7 Feet Long Foldable and Lightweight Tripod Stand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tygot X-1 PRO 78-Inches (200cm) Aluminium Tripod with Bluetooth Remote, Mobile Holder, Phone Stand for Ring Light, GoPro & Camera, Light Stand for Video Recording, Shooting, Streaming, Reels, YouTube",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tygot Lightweight & Portable Portable 7 Feet (84 Inch) Long Tripod Stand with Adjustable Mobile Clip Holder for All Mobiles & Cameras (Black)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tygot Bluetooth Extendable Selfie Sticks with Wireless Remote and Tripod Stand, 3-in-1 Multifunctional Selfie Stick with Tripod Stand Compatible with iPhone/OnePlus/Samsung/Oppo/Vivo and All Phones",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "DIGITEK® (DTR-525 SS) 160 CM Long Tripod Selfie Stick with Wireless Remote, Aluminum Rod with 3 Legs Base, 360° Head, GoPro Adapter, 7 Section Adjustment - Compatible with Phones & Action Cameras",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tygot Professional (12 Inch) Led Ring Light with 7 Feet Tripod Stand for Mobile Phones & Camera, 3 Temperature Mode Dimmable Lighting, Photo-Shoot, Video Shoot, Makeup & More",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tygot X-1 67 Inch (170cm) Aluminium Tripod with Bluetooth Remote, Mobile Holder, Phone Stand for Ring Light, GoPro & Camera, Light Stand for Video Recording, Shooting, Streaming, Reels, YouTube",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "DIGITEK® (DTR-555 SS) 5.57ft Foldable Tripod Selfie Stick for Smartphones & Gopro Action Cameras, 360° Rotation, 3-Leg Base, 2Kg Load, 10m Wireless Remote, 7 Section Adjustable, for Selfie & Vloggers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "DIGITEK® (DLS-9FT) Lightweight & Portable Aluminum Alloy Light Stand for Ring Light, Reflector, Flash Units, Diffuser, Portrait, Softbox, Studio Lighting & More Ideal for Outdoor & Indoor Shoots",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Registering CriticalFeatures to make sure our Nav JS is loaded.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:aui-preload",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:aui-preload",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-footer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN FOOTER START",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "WITH MOZART",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Get to Know Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "About Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Press Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Science",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Connect with Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Make Money with Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sell on Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sell under Amazon Accelerator",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Protect and Build Your Brand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Global Selling",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Supply to Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Become an Affiliate",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fulfilment by Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Advertise Your Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pay on Merchants",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Let Us Help You",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Returns Centre",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Recalls and Product Safety Alerts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "100% Purchase Protection",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon App Download",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Books, art",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "& collectibles",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Web Services",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Scalable Cloud",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computing Services",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audio Books",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movies, TV",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "& Celebrities",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fashion Brands",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Everything For",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Prime Music",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "100 million songs, ad-free",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Over 15 million podcast episodes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Conditions of Use & Sale",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Privacy Notice",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Interest-Based Ads",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "© 1996-2026, Amazon.com, Inc. or its affiliates",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN FOOTER END",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-footer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:configured-sitewide-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:configured-sitewide-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:customer-behavior-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:customer-behavior-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:body-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:body-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Show/Hide shortcuts shift + opt + Z",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Previous page",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Next page",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹500",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹1,000",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹1,000 - ₹5,000",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹5,000 - ₹10,000",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹10,000 - ₹20,000",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Over ₹20,000",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boat Bassheads 900 Pro Wired Headphones with 40Mm Drivers, Lightweight Foldable Design, Over Ear, Remote Control, Unidirectional Retractable Mic, Adjustable Headband & USB Type-A Compatibility(Black)",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹20,990.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹12,989.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹32,990.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sennheiser HD 560S Open-Back Audiophile Over Ear Wired Headphones,Neutral Reference Sound,Angled Transducers,Wide Soundstage,Detachable Cable,Lightweight,Natural Sound for Gaming,2Y Warranty",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹19,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹14,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Zebronics Jet PRO Premium Wired Gaming On Ear Headphone with LED for Headband + earcups, 40mm Neodymium Drivers, 2 Meter Braided Cable, with mic, Suspension Design, 3.5mm + USB Connector (Black, Blue)",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Ant Esports H520W Smartchoice Gaming Headset with Mic, Wired 3.5mm Over-Ear, 50mm Bass Drivers, Noise Isolating, Lightweight Comfort, Multi-Platform (PC/PS4/Xbox/Switch/Mobile), Black",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cosmic Byte Nexus Wireless Controller for PC | Dual Vibration, Sensitive Triggers, Fast Response | Powered by 2 AAA Batteries (Not Included) (Black)",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "JBL Go 4, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors, Water & Dust Proof, Type C (Without Mic, Black)",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ds_page=39",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Philips Audio MMS2625B 2.1 Channel, 31 W, Bluetooth Connectivity, Wired Multimedia Computer Speaker, FM, USB, Audio in Speakers, 15mm Subwoofer, Wide Compatibility - MP3 Player, TV, PC (Black)",
+      "kind": "price"
+    }
+  ],
+  "html_length": 918337
+}

@@ -1,0 +1,65 @@
+{
+  "url": "https://www.swiggy.com/",
+  "site": "swiggy.com",
+  "vertical": "food_delivery",
+  "scraped_at": "2026-04-29T08:57:59.895362+00:00",
+  "records": [
+    {
+      "url": "https://www.swiggy.com/",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "www.swiggy.com",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "was denied",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "?lit$404542534$",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "You don't have authorisation to view this page.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "HTTP ERROR 403",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Show details when hovering over the icon, in case the details are\n             hidden because they're too large.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Reload",
+      "kind": "button"
+    }
+  ],
+  "html_length": 185160
+}

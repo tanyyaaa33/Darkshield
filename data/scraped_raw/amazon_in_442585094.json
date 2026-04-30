@@ -1,0 +1,2721 @@
+{
+  "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+  "site": "amazon.in",
+  "vertical": "electronics",
+  "scraped_at": "2026-04-29T08:59:05.533769+00:00",
+  "records": [
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:head-start",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:head-start",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-open-part1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-open-part1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:cs-optimization",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:cs-optimization",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-open-part2",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "pc2tugr68se8",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-open-part2",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:aui-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:aui-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-inline-css",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN CSS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-inline-css",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Need to register sp.load.js in order to indicate ShoppingPortal to load Site-wide AUI JS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Title of the page is set by SEO meta data",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon.in - Deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SEO Meta contents",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "&&&Portal&Delimiter&&&",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:encrypted-slate-token",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:encrypted-slate-token",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:flow-closure-id",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:flow-closure-id",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:start-body",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:start-body",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:body-open",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:body-open",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-inline-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN JS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-inline-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-skeleton",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-skeleton",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:navbar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "navmet initial definition",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Main content",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Keyboard shortcuts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Show/Hide shortcuts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "To move between items, use your keyboard's up or down arrows.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Delivering to Noida 110091",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Update location",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Select the department you want to search in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "All Categories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Alexa Skills",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Devices",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fashion",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fresh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fresh Meat",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pharmacy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Appliances",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Apps & Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audible Audiobooks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Car & Motorbike",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Clothing & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Collectibles",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computers & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Electronics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Garden & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Gift Cards",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Grocery & Gourmet Foods",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home & Kitchen",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Industrial & Scientific",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kindle Store",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Luggage & Bags",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Luxury Beauty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movies & TV Shows",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Musical Instruments",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Office Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Pet Supplies",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Prime Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shoes & Handbags",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sports, Fitness & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Subscribe & Save",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tools & Home Improvement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Toys & Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹500",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Video Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Search Amazon.in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Hello, sign in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Account & Lists",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Today's Deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer Service",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pay",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Beauty & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home Improvement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Custom Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health, Household & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "AmazonBasics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kindle eBooks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Navyaan SWM",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Scheduled SWM widget failed to render",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Watched Deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Refurbished & Open Box",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "nav-linktree-subnav - 'goldbox'",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New customer?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Start here.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Lists",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Create a Wish List",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Wish from Any Website",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Baby Wishlist",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Discover Your Style",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Explore Showroom",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Orders",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Wish List",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Keep shopping for",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Recommendations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Prime Membership",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Prime Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Subscribe & Save Items",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Memberships & Subscriptions",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Seller Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Manage Your Content and Devices",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Register for a free Business Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:navbar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:configured-sitewide-before-host-atf-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:configured-sitewide-before-host-atf-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-atf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "undefined.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer's most loved",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Lightning Deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Mobiles & computer accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Large Appliances",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Grooming & Wellness",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health & Household",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Jewellery, Luggage, Watches",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kids & Baby",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Brands & more",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sports & Fitness",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Books & Stationery",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Car & motorbike accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Video games & Software",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal of the Day",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Discount grid",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Department",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Devices & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bags, Wallets and Luggage",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "See more filter options",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer Reviews",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹20 – ₹5,70,000",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Prime Programmes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Prime Exclusive",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Limited time deal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹1,30,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹1,39,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹1,39,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung Galaxy S26 Ultra 5G (Cobalt Violet, 12GB RAM, 256GB Storage) with Built-in Privacy Display, AI Phone, Photo Assist, Creative Studio, 200MP Camera, 5000mAh Battery and Snapdragon 8 Elite Gen 5",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung Galaxy S26 Ultra 5G (Cobalt Violet, 12GB RAM, 25…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop Samsung deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹30,240.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹57,150.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹57,150.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Whirlpool 1.5 Ton 3 Star, New star rated, Magicool Inverter Split AC (MAGICOOL 15T 3S INV CNV S6K2PP0, Copper, Convertible 4-in-1 Cooling Mode, HD Filter White)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Whirlpool 1.5 Ton 3 Star, New star rated, Magicool Inverter S…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop Whirlpool deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹35,490.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹75,190.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹75,190.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "LG 1.5 Ton 3 Star, New star rated, Smart Inverter Split AC (Copper, AI Convertible 6-in-1, Faster Cooling & Energy Saving, Diet Mode+, HD Filter with Anti-Virus Protection,Him Clean, AS-Q18JNXE,White)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "LG 1.5 Ton 3 Star, New star rated, Smart Inverter Split AC…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop LG deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹34,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹63,990.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹63,990.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Hitachi 1.5 Ton 3 Star, New Star rated, Inverter Split AC(Copper, Smart View Display, 4 Way Swing,RAS.D318PCD2BS1, White)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Hitachi 1.5 Ton 3 Star, New Star rated, Inverter Split AC(Coppe…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "with coupon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop Hitachi deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹27,990.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹47,900.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹47,900.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cruise 1.5 Ton 3 Star,New Star rated, Inverter Split AC with 7-Stage Air Filtration (Copper, Convertible 4-in-1, Fast Cooling, PM 2.5 Filter, Anti-Rust Tech, New BEE Rated, CWCVBM-VQ3D173, White)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cruise 1.5 Ton 3 Star,New Star rated, Inverter Split AC with 7…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deals from this brand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹1,86,998.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung Galaxy Z Fold7 5G Mobile with Galaxy AI (Silver Shadow, 12GB RAM, 512GB Storage), Ultra Sleek Design with 200MP Camera, Ultra-Smooth Gaming with Powerful Snapdragon 8 Elite, Google Gemini",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung Galaxy Z Fold7 5G Mobile with Galaxy AI (Silver S…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹18,499.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹32,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹32,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Redmi 15 5G Sandy Purple 6GB + 128GB | Segment's Largest 7000mAhA Battery | Segment's Largest Display 17.53cm(6.9) Up to 144Hz | Snapdragon 6s Gen 3 | 18W Reverse Charging | 50MP AI Dual Camera",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Redmi 15 5G Sandy Purple 6GB + 128GB | Segment's Largest…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop Redmi deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹79,990.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹1,21,000.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹1,21,000.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side AI Enabled Smart Refrigerator with WiFi (RS76CG8003B1HL, Black Matte/Black DOI)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertibl…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹59,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹64,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹64,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Oppo Reno15Pro mini 5G (Cocoa Brown, 12GB RAM, 256GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Oppo Reno15Pro mini 5G (Cocoa Brown, 12GB RAM, 25…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop OPPO deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹42,990.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹53,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹53,999.00",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung 350 L, 3 Star, Convertible 5-in-1, Digital Inverter, Frost Free Double Door, WiFi Bespoke AI Refrigerator (RT38HG5A23S8HL, Silver, Elegant Inox, 2026 Model)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung 350 L, 3 Star, Convertible 5-in-1, Digital Inv…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "+2 colours/patterns",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-atf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN BTF START",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN BTF END",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:aui-preload",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:aui-preload",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-footer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN FOOTER START",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "WITH MOZART",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your recently viewed items and featured recommendations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "View or edit your browsing history",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Get to Know Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "About Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Press Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Science",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Connect with Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Make Money with Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sell on Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sell under Amazon Accelerator",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Protect and Build Your Brand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Global Selling",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Supply to Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Become an Affiliate",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fulfilment by Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Advertise Your Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pay on Merchants",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Let Us Help You",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Returns Centre",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Recalls and Product Safety Alerts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "100% Purchase Protection",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon App Download",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Books, art",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "& collectibles",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Web Services",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Scalable Cloud",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computing Services",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audio Books",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movies, TV",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "& Celebrities",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fashion Brands",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Everything For",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Prime Music",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "100 million songs, ad-free",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Over 15 million podcast episodes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Conditions of Use & Sale",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Privacy Notice",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Interest-Based Ads",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "© 1996-2026, Amazon.com, Inc. or its affiliates",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN FOOTER END",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-footer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:configured-sitewide-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:configured-sitewide-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:customer-behavior-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:customer-behavior-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:body-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:body-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Show/Hide shortcuts shift + opt + Z",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Trending",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer's most loved",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Coupons",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Lightning Deals",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Mobiles",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Electronics",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Mobiles & computer accessories",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Large Appliances",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Smart TVs",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home & Kitchen",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Furniture",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Grooming & Wellness",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health & Household",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Clothing",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Footwear",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Beauty",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Jewellery, Luggage, Watches",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kids & Baby",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Brands & more",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Grocery",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sports & Fitness",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Books & Stationery",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Car & motorbike accessories",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Pet Supplies",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Video games & Software",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Musical Instruments",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal of the Day",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "See more",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop Samsung deals Shop Samsung deals",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop Whirlpool deals Shop Whirlpool deals",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop LG deals Shop LG deals",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop Hitachi deals Shop Hitachi deals",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deals from this brand Deals from this brand",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop Redmi deals Shop Redmi deals",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop OPPO deals Shop OPPO deals",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹500",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹20 – ₹5,70,000",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹1,30,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹1,39,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹1,39,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹30,240.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹57,150.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹57,150.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹35,490.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹75,190.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹75,190.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹34,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹63,990.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹63,990.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹27,990.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹47,900.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹47,900.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹1,86,998.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹18,499.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹32,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹32,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹79,990.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹1,21,000.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹1,21,000.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side AI Enabled Smart Refrigerator with WiFi (RS76CG8003B1HL, Black Matte/Black DOI)",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹59,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹64,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹64,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Deal Price: ₹42,990.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "M.R.P: ₹53,999.00",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.amazon.in/deals?ref_=nav_cs_gb&ds_page=36",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "₹53,999.00",
+      "kind": "price"
+    }
+  ],
+  "html_length": 558199
+}

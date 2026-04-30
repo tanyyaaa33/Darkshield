@@ -1,0 +1,2321 @@
+{
+  "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+  "site": "amazon.in",
+  "vertical": "electronics",
+  "scraped_at": "2026-04-29T08:54:23.062893+00:00",
+  "records": [
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:head-start",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:head-start",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-open-part1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-open-part1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:cs-optimization",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:cs-optimization",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-open-part2",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-open-part2",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:aui-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:aui-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-inline-css",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN CSS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-inline-css",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Zeitgeist Head Content",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon.in Bestsellers: The most popular items on Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "&&&Portal&Delimiter&&&",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:encrypted-slate-token",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:encrypted-slate-token",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:flow-closure-id",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:flow-closure-id",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:start-body",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:start-body",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:body-open",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:body-open",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-inline-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN JS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-inline-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-skeleton",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-skeleton",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:navbar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "navmet initial definition",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Main content",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Keyboard shortcuts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Show/Hide shortcuts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "To move between items, use your keyboard's up or down arrows.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Delivering to Noida 110091",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Update location",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Select the department you want to search in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "All Categories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Alexa Skills",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Devices",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fashion",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fresh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fresh Meat",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pharmacy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Appliances",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Apps & Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audible Audiobooks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Car & Motorbike",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Clothing & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Collectibles",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computers & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Electronics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Garden & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Gift Cards",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Grocery & Gourmet Foods",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home & Kitchen",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Industrial & Scientific",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kindle Store",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Luggage & Bags",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Luxury Beauty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movies & TV Shows",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Musical Instruments",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Office Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Pet Supplies",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Prime Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shoes & Handbags",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sports, Fitness & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Subscribe & Save",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tools & Home Improvement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Toys & Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹500",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Video Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Search Amazon.in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Hello, sign in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Account & Lists",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New customer?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Start here.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Lists",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Create a Wish List",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Wish from Any Website",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Baby Wishlist",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Discover Your Style",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Explore Showroom",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Orders",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Wish List",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Keep shopping for",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Recommendations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Prime Membership",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Prime Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Subscribe & Save Items",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Memberships & Subscriptions",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Seller Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Manage Your Content and Devices",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Register for a free Business Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Today's Deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer Service",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pay",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Beauty & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home Improvement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Custom Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health, Household & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "AmazonBasics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kindle eBooks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Navyaan SWM",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Scheduled SWM widget failed to render",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:navbar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:configured-sitewide-before-host-atf-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:configured-sitewide-before-host-atf-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-atf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "BeginZeitgeist",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "CardsClient",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Hot New Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movers and Shakers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Bestsellers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Our most popular products based on sales.  Updated frequently.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Any Department",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Launchpad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Renewed",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Baby Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bags, Wallets and Luggage",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers in Amazon Launchpad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Start over",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Previous page",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SOFTSPUN Microfiber Cloth - 4 pcs - 40x40 cms - 340 GSM Grey! Thick Lint & Streak-Free Multipurpose Cloths - Automotive Microfiber…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "4.3 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ALPINO 22% High Protein Super Oats Chocolate 1kg – Rolled Oats, Natural Peanut Butter, Cocoa Powder, Nuts & Seeds – 22g…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "4.2 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "SOFTSPUN Microfiber Cloth for Car 1600 GSM 40x60 cms 1 Pc Aqua Blue/Grey | Twisted Loop Super Absorbent Towel - Edgeless…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sirona Disposable Underarm Sweat Pads for Men and Women, 24 Pads | Peel-off | Prevents Stains & Unpleasant Odour | Quick sweat…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "4.1 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer Review:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ALPINO Peanut Butter Super Oats Chocolate 1 KG | 21% High Protein | Made with Rolled Oats, Chocol...",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "See full review",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Videos",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Earns Commissions",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "The video showcases the product in use.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "The video guides you through product setup.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "The video compares multiple products.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "The video shows the product being unpacked.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Video Player is loading.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Click to play video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Current Time",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Stream Type",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Seek to live, currently behind live",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Remaining Time",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Playback Rate",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Descriptions",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "descriptions off",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": ", selected",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Captions off",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audio Track",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fullscreen",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "This is a modal window.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers in Beauty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Ghar Soaps Sandalwood & Saffron Magic Soaps For Bath (300 Gms Pack Of 3) | Paraben Free | Chandan & Kesar Bath Soap |…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "3.9 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Simple Kind to Skin Refreshing Facial Wash | 100% Soap-Free Gentle Cleanser with Vitamin E & Glycerin | For All Skin Types |…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++ | Hydrating, Lightweight & Non-Greasy | No White Cast |…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Cetaphil Gentle Skin Hydrating Face Wash 118ml, Paraben Free, Sulphate-Free Gentle Skin Hydrating Cleanser with…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "4.4 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ghar soap magic soap",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "yeh mera india",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers in Garden & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Classic Mosquito Net for Double Bed | King Size Foldable Machardani | Polyester 30GSM Strong Net | PVC Coated…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "LifeKrafts Polyester Magnetic Mosquito Net for All Door Types & Sizes, Auto-Closing Insect Screen/Curtain to Keep Mosquito…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Mortein 45ml x 6 (Buy 4 Get 2 Free) Fits All Machines | SmartPlus Mosquito Repellent Refill | Mosquito Repellent & Killer |…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "4.0 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Mortein Advanced Anti-Mosquito Racquet | Mosquito Bat | Electric Fly Swatter | Mosquito Killer Racket | Bat to Hit Mosquito",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "HIT Crawling Insect Killer Cockroach Killer Spray | Instant Kill | Deep-Reach Nozzle | Fresh Fragrance, 700ml",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Konvio Neer Imported Tds Meter, Total Dissolved Solids Meter, Water Quality Tester, Ppm Tester For Water Testing - White",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Product Overview Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Product Imaging",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers in Jewellery",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "AVORA Raw Pyrite Anklet for Women | Natural Stone Jewellery for Wealth, Luck & Protection | Certified Crystal | Spiritual…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shining Diva Fashion 5 Pcs Latest Stylish Heart Butterfly Pearl Necklace Jewellery Set for Women Pendant Necklace Gifts for Girls…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "3.7 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Astrotalk Raw Pyrite Anklet | Stone of Money, Protection & Power | Natural Healing Crystal Anklet for Women | Spiritual Jewellery for…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "3.5 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Astrotalk Dhan Yog Bracelet |Attracts Wealth & Prosperity | Manifest Wealth with Citrine, Jade, Tiger Eye, Clear Quartz & Pyrite…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Zeneme Traditional Brass 18 K Gold Plated Wedding Jewellery Bahubali Inspired Long Chain Jhumki Earrings for Women and…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shining Diva Fashion 5 Pcs Combo Latest Stylish Infinity Butterfly Pearl Necklace Jewellery Set for Women Pendant Necklace Gifts…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Zeneme Traditional Brass 18 K Gold Plated Wedding Jewellery Jhumki Earrings for Women",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers in Home & Kitchen",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "TEKCOOL Mini Cooler for Room Cooling AC Portable Mini Fan Artic Cooler with 7 Colors LED Light, 1/2/3 H Timer, 3 Wind Speeds…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "4.6 out of 5 stars",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Brand - Presto! Garbage Bags | Medium | 180 Count | 30 Bags X 6 Rolls | 19 X 21 Inches | For Dry & Wet Waste | Black",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fresh Assorted Roses (Button Roses), 100g",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Ezee Live Life Ezee Way Black Garbage Bags for Dustbin|90 Pcs|Medium 19 X 21 Inches|30 Pcs X Pack of 3, 3 count",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "ATOM ALISTON K1 Series Digital Kitchen Weighing Scale 10 kg, Electronic Weight Machine with LCD Display for Baking, Cooking,…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jars & 1 Blade, Silver) - 2 Year Warranty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Product Summary Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers in Sports, Fitness & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Lifelong PVC Hex Fixed Dumbbells Pack of 2 (2kg*2) Black Color for Home Gym Equipment Fitness Barbell|Gym Exercise|Home…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Slovic Pull up Bar for Home Kids [100 KG] | No Screw Pull Up Bar Wall Mounted with Anti-Skid Grip | Pull-ups Bar for Homes Workout…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boldfit Hand Gripper for Men & Women Hand Grip Strengthener for Forearm, Wrist & Finger Workout Fitness Equipment for…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boldfit Pull Up Bars For Home Workout -Chin Up Bar Gym Accessories for Men Door Way Adjustable Hanging Rod Without…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Lifelong LLYM92 Yoga mat for Women & Men EVA Material 4mm Anti-Slip Mat for Workout|Exercise Mat For Home Gym | Yoga Mat…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Boldfit Heavy Resistance Band for Workout Set Exercise & Stretching Pull Up Bands for Home Exercise for Gym Men & Women Loop…",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "About Bestsellers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "These frequently updated lists contain bestselling items.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "EndZeitgeist",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-atf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN BTF START",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN BTF END",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:aui-preload",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:aui-preload",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-footer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN FOOTER START",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "WITH MOZART",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your recently viewed items and featured recommendations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "View or edit your browsing history",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Get to Know Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "About Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Press Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Science",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Connect with Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Make Money with Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sell on Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sell under Amazon Accelerator",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Protect and Build Your Brand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Global Selling",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Supply to Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Become an Affiliate",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fulfilment by Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Advertise Your Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pay on Merchants",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Let Us Help You",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Returns Centre",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Recalls and Product Safety Alerts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "100% Purchase Protection",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon App Download",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Books, art",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "& collectibles",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Web Services",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Scalable Cloud",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computing Services",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audio Books",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movies, TV",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "& Celebrities",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fashion Brands",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Everything For",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Prime Music",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "100 million songs, ad-free",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Over 15 million podcast episodes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Conditions of Use & Sale",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Privacy Notice",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Interest-Based Ads",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "© 1996-2026, Amazon.com, Inc. or its affiliates",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN FOOTER END",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-footer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:configured-sitewide-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:configured-sitewide-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:customer-behavior-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:customer-behavior-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:body-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:body-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Show/Hide shortcuts shift + opt + Z",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Watch the video Watch",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Click to play video",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Play",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Mute",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Seek to live, currently behind live LIVE",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Playback Rate",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Chapters",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Descriptions",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Captions",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audio Track",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fullscreen",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹500",
+      "kind": "price"
+    }
+  ],
+  "html_length": 990284
+}

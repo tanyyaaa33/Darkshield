@@ -11,6 +11,7 @@ import logging
 import random
 import sys
 import time
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable, List, Tuple
@@ -44,7 +45,22 @@ def _chrome_driver() -> webdriver.Chrome:
         "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     )
-    service = Service(ChromeDriverManager().install())
+    # Prefer a locally provided/cached chromedriver to avoid webdriver_manager issues
+    # (e.g., exec format errors in some environments).
+    local_driver = _ROOT / ".chromedriver"
+    driver_path = os.getenv("CHROMEDRIVER_PATH")
+    if not driver_path and local_driver.exists():
+        driver_path = str(local_driver)
+
+    if driver_path:
+        try:
+            os.chmod(driver_path, 0o755)
+        except OSError:
+            pass
+        service = Service(executable_path=driver_path)
+    else:
+        service = Service(ChromeDriverManager().install())
+
     return webdriver.Chrome(service=service, options=opts)
 
 
@@ -119,6 +135,46 @@ TARGETS: List[Tuple[str, str, str, List[str]]] = [
             "https://www.nykaa.com/brands/c/18933",
         ],
     ),
+    (
+        "bigbasket.com",
+        "fmcg",
+        "https://www.bigbasket.com/",
+        [
+            "https://www.bigbasket.com/",
+            "https://www.bigbasket.com/ps/?q=milk",
+            "https://www.bigbasket.com/ps/?q=soap",
+            "https://www.bigbasket.com/pd/?q=eggs",
+        ],
+    ),
+    (
+        "swiggy.com",
+        "food_delivery",
+        "https://www.swiggy.com/",
+        [
+            "https://www.swiggy.com/",
+            "https://www.swiggy.com/restaurants",
+            "https://www.swiggy.com/instamart",
+        ],
+    ),
+    (
+        "cleartrip.com",
+        "travel",
+        "https://www.cleartrip.com/",
+        [
+            "https://www.cleartrip.com/",
+            "https://www.cleartrip.com/flights",
+            "https://www.cleartrip.com/hotels",
+        ],
+    ),
+    (
+        "irctc.co.in",
+        "travel",
+        "https://www.irctc.co.in/",
+        [
+            "https://www.irctc.co.in/",
+            "https://www.irctc.co.in/nget/train-search",
+        ],
+    ),
 ]
 
 
@@ -182,7 +238,8 @@ def default_url_list(min_pages: int = 520) -> List[Tuple[str, str, str]]:
 
 
 def main() -> None:
-    urls = default_url_list(520)
+    min_pages = int(os.getenv("MIN_PAGES", "520"))
+    urls = default_url_list(min_pages)
     n = scrape_urls(urls)
     logger.info("Finished scraping %d pages", n)
 

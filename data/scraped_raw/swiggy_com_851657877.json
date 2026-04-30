@@ -1,0 +1,2817 @@
+{
+  "url": "https://www.swiggy.com/restaurants",
+  "site": "swiggy.com",
+  "vertical": "food_delivery",
+  "scraped_at": "2026-04-29T08:58:09.923444+00:00",
+  "records": [
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Order Food Online from India's Best Food Delivery Service | Swiggy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Swiggy Corporate",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "What's on your mind?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Top restaurant chains in Noida 1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "30-35 mins",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Burgers, Fast Food, Rolls & Wraps",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹89",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "35-40 mins",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹148",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chinese Wok",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "40-45 mins",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chinese, Asian, Tibetan, Desserts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "The Belgian Waffle Co.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Waffle, Desserts, Ice Cream",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹139",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chinese, Tibetan, Desserts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Oven Story Pizza",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "20-25 mins",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Pizzas, Pastas, Italian, Desserts, Beverages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sector 2, Noida",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹59",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Burger King",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Burgers, American",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹52",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "McDonald's",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "American, Fast Food, Beverages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "₹150 OFF ABOVE ₹299",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "sandwich, Salads, wrap, Healthy Food",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹129",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "The Good Bowl",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Biryani, Pastas, Punjabi, Desserts, Beverages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bakery, Desserts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹79",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Faasos - Wraps, Rolls & Shawarma",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "45-50 mins",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kebabs, Fast Food, Snacks, American, Healthy Food, Desserts, Beverages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹99",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "The Biryani Life",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Biryani, Mughlai, Lucknowi, Hyderabadi, Kebabs, Desserts, Beverages",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "50% OFF UPTO ₹100",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kwality Walls Ice Cream and More",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Desserts, Ice Cream, Ice Cream Cakes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Trilokpuri",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹49",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "NIC Ice Creams",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ice Cream, Desserts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Behrouz Biryani",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "40% OFF UPTO ₹80",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Donald's Pastry Shop",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Golf Course",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹69",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Barista Coffee",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Beverages, Snacks, Desserts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Tossin Pizza",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "25-35 mins",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chaayos Chai+Snacks=Relax",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bakery, Beverages, Chaat, Desserts, Home Food, Italian, Maharashtrian, Snacks, Street Food, Sweets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Restaurants with online food delivery in Noida 1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "20% OFF UPTO ₹50",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Dabba & Co.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Home food, Indian, Thalis",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "California Burrito",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mexican, American, Salads, Keto, Healthy Food, Beverages, Snacks, Desserts, Fast Food",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Places to Eat Across Cities",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Bangalore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Pune",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Mumbai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Hyderabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Kolkata",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Chennai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Chandigarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Ahmedabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Nagpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Bhubaneswar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Kochi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Surat",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Dehradun",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Ludhiana",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Patna",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Mangaluru",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Bhopal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Gurgaon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Coimbatore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Agra",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Noida",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Vijayawada",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Guwahati",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Mysore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Pondicherry",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Thiruvananthapuram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Ranchi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Vizag",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Udaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Restaurants in Vadodara",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Best Cuisines Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chinese Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "South Indian Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Indian Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kerala Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Korean Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "North Indian Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Seafood Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bengali Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Punjabi Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Italian Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Andhra Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Biryani Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Japanese Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Arabian Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Fast Food Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Jain Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Gujarati Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Thai Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Pizzas Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Asian Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Cafe Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Continental Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mexican Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mughlai Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sushi Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mangalorean Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Tibetan Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Barbecue Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Maharashtrian Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Nepalese Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Rajasthani Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Turkish Restaurant Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Explore Every Restaurants Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Explore Restaurants Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Explore Top Rated Restaurants Near Me",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "For better experience,download the Swiggy app now",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "© 2026 Swiggy Limited",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Swiggy One",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Swiggy Instamart",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Swiggy Dineout",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Swiggy Genie",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Contact us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Help & Support",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Partner with us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ride with us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Terms & Conditions",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Cookie Policy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Privacy Policy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Investor Relations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Life at Swiggy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Explore with Swiggy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Swiggy News",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Snackables",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Available in:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "679 cities",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Social Links",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Other cities that we deliver:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chandigarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Coimbatore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Vijayawada",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Pondicherry",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Aurangabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bhubaneswar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Central Goa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Thiruvananthapuram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Rajahmundry",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Jamshedpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ahmednagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Saharanpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Tirunelveli",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "KanyaKumari",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Shivamogga",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Davanagere",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Muzaffarpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Dharamshala",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Vizianagaram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kalaburagi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Muzaffarnagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Yamuna Nagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chhindwara",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Thoothukudi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Malappuram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Farrukhabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Shahjahanpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kishangarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ichalkaranji",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Madanapalle",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Tiruvannamalai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Karimnagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Machilipatnam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kurukshetra",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bulandshahr",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Tadepalligudem",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ramagundam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mahbubnagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kumbakonam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Maunath Bhanjan",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Shikohabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Rae Bareli",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Rajapalayam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Rajnandgaon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ranibennur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bhadravati",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Pudukkottai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Karaikkudi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sri Ganganagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bhimavaram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Hanumangarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Surendranagar Dudhrej",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Gandhidham",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sawai Madhopur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Darjeeling",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Jalpaiguri",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chittorgarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kanchrapara",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chandrapur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bahadurgarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Hoshiarpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Narasaraopet",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mughalsarai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chilakaluripet",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Deoria City",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Krishnanagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Miryalaguda",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Berhampore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Nagapattinam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chikmagalur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chitradurga",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Gadag-Betigeri",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Hoshangabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Port Blair",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Biharsharif",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kishanganj",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Srikakulam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chikkaballapur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chalisgaon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Thiruvallur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Dharmapuri",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Virudhunagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bodhan-Rural",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kapurthala",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Doddaballapura",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Krishnagiri",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bhadrachalam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mancherial",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bharabanki",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Fatehgarh Sahib",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Naraingarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Himmatnagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Samastipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Gangapur City",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mandi Gobindgarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Tarn Taran Sahib",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ankleshwar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sawantwadi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Shrirampur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chhatarpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Viluppuram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ramanathapuram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kodaikanal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Karunagappaly",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Thiruvalla",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Thodupuzha",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kayamkulam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kottarakkara",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mandi Dabwali",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Pinjore City",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Daltonganj",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Paonta Sahib",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kothagudem",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Aurangabad_Bihar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Charkhi Dadri",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Jharsuguda",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kendrapada",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mallapuram (Do not Use)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bapatla&Chirala",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bongaigaon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mayiladuthurai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Cooch Behar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Naharlagun",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bodinayakanur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bhawanipatna",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Narsinghpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Uran Islampur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kovilpatti",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ramanagara",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Alipurduar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Srivilliputhur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chidambaram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Pratapgarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Raghunathpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kadayanallur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Thiruvarur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ranaghat-WB",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Perambalur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Paramakudi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Bela Pratapgarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Khalilabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Pattukkottai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Tindivanam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Gangarampur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Dharapuram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Aruppukottai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mettupalayam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Biswanath Chariali",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Shirdi city",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Amalapuram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Ravulapalem",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Narsipatnam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kushalnagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sulthan Bathery",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Parvathipuram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "North Lakhimpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Udumalaipettai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Tirupattur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sullurpeta",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "SankaranKoil",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "LPU - Phagwara",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Maharajganj",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Kallakurichi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sundernagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Forbesganj",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mokameh Khas",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Lakhisarai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Rameswaram",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Siddharthnagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chamarajanagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sundar Nagar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sundergarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Jamkhambhaliya",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Lakshadweep",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Chitrakoot",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sankeshwar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Nelamangala",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Srinagar Uttarakhand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Show More",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "679 cities",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Burgers, Fast Food, Rolls & Wraps",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹89",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹148",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹139",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹59",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Burgers, American",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹52",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "₹150 OFF ABOVE ₹299",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹129",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹79",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹99",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "50% OFF UPTO ₹100",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹49",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "40% OFF UPTO ₹80",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "ITEMS AT ₹69",
+      "kind": "price"
+    },
+    {
+      "url": "https://www.swiggy.com/restaurants",
+      "site": "swiggy.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "20% OFF UPTO ₹50",
+      "kind": "price"
+    }
+  ],
+  "html_length": 371334
+}

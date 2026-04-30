@@ -1,70 +1,70 @@
 {
   "vertical_vs_is_dark": {
-    "chi2": 243.18243183244297,
-    "p_value": 1.5946651981807923e-50,
+    "chi2": 250.02420031565666,
+    "p_value": 5.4315919321892294e-52,
     "dof": 5,
-    "cramers_v": 0.4632880984490719,
+    "cramers_v": 0.4697600374408151,
     "interpretation": "Strong",
     "n": 1133
   },
   "per_pattern": {
     "fake_urgency": {
-      "chi2": 151.93147726324574,
-      "p_value": 5.180077254470317e-31,
+      "chi2": 133.62168102975636,
+      "p_value": 4.052923166593016e-27,
       "dof": 5,
       "significant_01": true
     },
     "confirm_shaming": {
-      "chi2": 115.25663600978912,
-      "p_value": 3.168922059622431e-23,
+      "chi2": 91.66376625545763,
+      "p_value": 3.0041114046540272e-18,
       "dof": 5,
       "significant_01": true
     },
     "hidden_costs": {
-      "chi2": 127.9433830993878,
-      "p_value": 6.500336045025665e-26,
+      "chi2": 87.7159125722515,
+      "p_value": 2.0273791247294496e-17,
       "dof": 5,
       "significant_01": true
     },
     "visual_interference": {
-      "chi2": 90.67585469601133,
-      "p_value": 4.8454303248731966e-18,
+      "chi2": 112.77152232364483,
+      "p_value": 1.0631493113408897e-22,
       "dof": 5,
       "significant_01": true
     },
     "sneaking": {
-      "chi2": 134.70879691255954,
-      "p_value": 2.381796246098609e-27,
+      "chi2": 123.08452661012154,
+      "p_value": 6.96947799617773e-25,
       "dof": 5,
       "significant_01": true
     },
     "forced_continuity": {
-      "chi2": 155.2179086849063,
-      "p_value": 1.0338498220376775e-31,
+      "chi2": 138.35980940312334,
+      "p_value": 3.992684584315255e-28,
       "dof": 5,
       "significant_01": true
     },
     "misdirection": {
-      "chi2": 91.67455497025028,
-      "p_value": 2.988465935513105e-18,
+      "chi2": 106.33759918545047,
+      "p_value": 2.432912631451294e-21,
       "dof": 5,
       "significant_01": true
     },
     "social_proof_manipulation": {
-      "chi2": 86.91506635245004,
-      "p_value": 2.985360504081156e-17,
+      "chi2": 111.8415871146122,
+      "p_value": 1.6719686536204625e-22,
       "dof": 5,
       "significant_01": true
     },
     "bait_and_switch": {
-      "chi2": 107.99925985541572,
-      "p_value": 1.084465318373488e-21,
+      "chi2": 128.94526114116638,
+      "p_value": 3.984589602736728e-26,
       "dof": 5,
       "significant_01": true
     },
     "roach_motel": {
-      "chi2": 141.52526282148463,
-      "p_value": 8.480519670019396e-29,
+      "chi2": 116.56518936031175,
+      "p_value": 1.674909823334119e-23,
       "dof": 5,
       "significant_01": true
     }

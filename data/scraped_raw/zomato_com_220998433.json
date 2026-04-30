@@ -1,0 +1,569 @@
+{
+  "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+  "site": "zomato.com",
+  "vertical": "food_delivery",
+  "scraped_at": "2026-04-29T09:00:53.214988+00:00",
+  "records": [
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "404 | Zomato",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Google Tag Manager",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "End Google Tag Manager",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Meta tags for zomato pwa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Facebook Pixel Code",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "End Facebook Pixel Code",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "[if IE 8]>\n    <script type=\"text/javascript\" src=\"https://b.zmtcdn.com/application/javascript/respond.min.js\"></script>\n    <script type=\"text/javascript\" src=\"https://b.zmtcdn.com/application/javascript/pie.js\"></script>\n    <![endif]",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Please type a location...",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Location drop down starts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "All of Delhi NCR",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Recent Locations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Popular Locations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Rohini, New Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Uttam Nagar, New Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Shahdara, New Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Location dro down ends",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Search for restaurants or cuisines...",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "keywords dro down starts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Coming right up...",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "No results found",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Trending Searches",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Suggested Searches",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Pocket-Friendly Delivery",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Drinks & Nightlife",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Luxury Dining",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "North Indian",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Desserts & Bakes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "keywords dro down ends",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Get the App",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Order Food",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Book a Table",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "This is a 404 page and we think it's fairly clear",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "You aren't going to find what you're looking for here",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "But we know you're hungry, so don't fret or rage",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Hit that big red button to go back to our homepage",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Back to home",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "There's nothing on this page, and that really does s**k",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "But we don't want you thinking we don't give a f**k",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "So before you fly into a hungry rage",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Here's a button to take you back to our homepage",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Indonesian",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Português (PT)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Português (BR)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Slovenčina",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Vietnamese",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "About Zomato",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Report Fraud",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "For Foodies",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Code of Conduct",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Verified Users",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Blogger Help",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Mobile Apps",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "For Restaurants",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Add a Restaurant",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Czech Republic",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "New Zealand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Philippines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "South Africa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "United Kingdom",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "United States",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "API Policy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "By continuing past this page, you agree to our",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Terms of Service",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Cookie Policy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Privacy Policy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Content Policies",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": ". All trademarks are properties of their respective owners. © 2008-2026 -",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "™ Media Pvt Ltd. All rights reserved.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Find us on Google+",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/dineout?ds_page=50",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Back to home",
+      "kind": "button"
+    }
+  ],
+  "html_length": 62093
+}

@@ -1,0 +1,1633 @@
+{
+  "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+  "site": "amazon.in",
+  "vertical": "electronics",
+  "scraped_at": "2026-04-29T08:59:22.667081+00:00",
+  "records": [
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:head-start",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:head-start",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-open-part1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-open-part1",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:cs-optimization",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:cs-optimization",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-open-part2",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "68f3lwapydbderlxwb8uvho6gpb77jdqhbbd3k7pvkaf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-open-part2",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:aui-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:aui-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-inline-css",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN CSS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-inline-css",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-csrf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon.in Shopping Cart",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "&&&Portal&Delimiter&&&",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:encrypted-slate-token",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:encrypted-slate-token",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:flow-closure-id",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:flow-closure-id",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:head-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:start-body",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:start-body",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:body-open",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:body-open",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-inline-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN JS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-inline-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-skeleton",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-skeleton",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:navbar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "navmet initial definition",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Main content",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Amazon Cart",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Saved for Later",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Buy it Again",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Keyboard shortcuts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Show/Hide shortcuts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "To move between items, use your keyboard's up or down arrows.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Delivering to Noida 110091",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Update location",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Select the department you want to search in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "All Categories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Alexa Skills",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Devices",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fashion",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fresh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Fresh Meat",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pharmacy",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Appliances",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Apps & Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audible Audiobooks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Car & Motorbike",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Clothing & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Collectibles",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computers & Accessories",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Electronics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Garden & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Gift Cards",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Grocery & Gourmet Foods",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home & Kitchen",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Industrial & Scientific",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kindle Store",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Luggage & Bags",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Luxury Beauty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movies & TV Shows",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Musical Instruments",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Office Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Pet Supplies",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Prime Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shoes & Handbags",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sports, Fitness & Outdoors",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Subscribe & Save",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Tools & Home Improvement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Toys & Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹500",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Video Games",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Search Amazon.in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Hello, sign in",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Account & Lists",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New customer?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Start here.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Lists",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Create a Wish List",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Wish from Any Website",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Baby Wishlist",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Discover Your Style",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Explore Showroom",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Orders",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Wish List",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Keep shopping for",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Recommendations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Prime Membership",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Prime Video",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Subscribe & Save Items",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Memberships & Subscriptions",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Seller Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Manage Your Content and Devices",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Register for a free Business Account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Bestsellers",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Today's Deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Customer Service",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "New Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pay",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Beauty & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Home Improvement",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Custom Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Health, Household & Personal Care",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "AmazonBasics",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Kindle eBooks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Navyaan SWM",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Scheduled SWM widget failed to render",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:navbar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:configured-sitewide-before-host-atf-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:configured-sitewide-before-host-atf-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-atf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Amazon Cart is empty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Shop today’s deals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sign in to your account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sign up now",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "No items saved for later",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sorry, there was a problem getting this information.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Please try again or search for more options.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "The price and availability of items at Amazon.in are subject to change. The shopping cart is a temporary place to store a list of your items and reflects each item's most recent price.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Do you have a gift card or promotional code? We'll ask you to enter your claim code when it's time to pay.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-atf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN BTF START",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN BTF END",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:host-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Brief content visible, double tap to read full content.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Full content visible, double tap to read brief content.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:host-btf",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:aui-preload",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:aui-preload",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:nav-footer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN FOOTER START",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "WITH MOZART",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "CardsClient",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "See personalized recommendations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your recently viewed items and featured recommendations",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "View or edit your browsing history",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Get to Know Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "About Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Press Releases",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Science",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Connect with Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Make Money with Us",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sell on Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Sell under Amazon Accelerator",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Protect and Build Your Brand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Global Selling",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Supply to Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Become an Affiliate",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fulfilment by Amazon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Advertise Your Products",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Pay on Merchants",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Let Us Help You",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Returns Centre",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Recalls and Product Safety Alerts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "100% Purchase Protection",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon App Download",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Books, art",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "& collectibles",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Web Services",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Scalable Cloud",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Computing Services",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Audio Books",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Movies, TV",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "& Celebrities",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Fashion Brands",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Everything For",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Your Business",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Amazon Prime Music",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "100 million songs, ad-free",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Over 15 million podcast episodes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Conditions of Use & Sale",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Privacy Notice",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Interest-Based Ads",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "© 1996-2026, Amazon.com, Inc. or its affiliates",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "NAVYAAN FOOTER END",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:nav-footer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:configured-sitewide-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:configured-sitewide-assets",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:customer-behavior-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:customer-behavior-js",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:feature:csm:body-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "sp:end-feature:csm:body-close",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Show/Hide shortcuts shift + opt + Z",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Back to top",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.amazon.in/gp/cart/view.html?ds_page=38",
+      "site": "amazon.in",
+      "vertical": "electronics",
+      "source": "scraped",
+      "text": "Under ₹500",
+      "kind": "price"
+    }
+  ],
+  "html_length": 327542
+}

@@ -1,0 +1,3833 @@
+{
+  "url": "https://www.cleartrip.com/hotels",
+  "site": "cleartrip.com",
+  "vertical": "travel",
+  "scraped_at": "2026-04-29T08:58:43.613198+00:00",
+  "records": [
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Online Hotel Booking | Book Luxury, Budget and Cheap Hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Search hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Enter locality, landmark, city or hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Wed, Apr 29",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Thu, Apr 30",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "1 Room, 2 Adults",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Book Hotels Online with Cleartrip for Your Next Trip",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Are you in search of a perfect hotel stay for your next adventure?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "makes hotel booking simple and hassle-free which helps in investing time on other plans. Whether you’re travelling for leisure or business, Cleartrip offers a wide range of hotels to suit every budget.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "With clear pricing, detailed descriptions, and an easy booking process, you can plan your stay with ease and find the perfect hotel.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Explore Our Hotel Options",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Cleartrip offers a variety of options to match your travel needs:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Luxury Hotels:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indulge in opulence with world-class amenities and top-tier services for a premium experience.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Business Hotels:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Strategically located near commercial hubs, these properties have features like high-speed Wi-Fi and meeting spaces.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Family-Friendly Stays:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Designed for families, these hotels offer spacious rooms, play areas, and kid-friendly facilities.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Budget Hotels:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Affordable yet comfortable, these options provide essential amenities for cost-conscious travellers.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Why Book Hotels with Cleartrip?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Extensive Options:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Choose from a broad selection of hotels tailored to suit different styles and budgets. Whether you’re looking for 5-star luxury with spas and fine dining or budget-friendly boutique hotels, Cleartrip ensures you find the right fit. Travellers seeking long-term stays can check serviced apartments with kitchenettes.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Seamless Booking Experience:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Our easy-to-use platform simplifies hotel booking. Use filters to sort properties by price range, location, guest ratings, or amenities to find the perfect match. With transparent pricing and real-time availability, booking cheap hotels takes just a few clicks.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Global Reach, Local Expertise:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Whether planning a stay in your city or abroad, Cleartrip provides global coverage and local expertise. Our team helps you make informed decisions by offering insights into the best hotels in every destination.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Best Deals Guaranteed:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Enjoy unbeatable value with Cleartrip's special promotions and cashback offers. Save more on hotel deals with seasonal discounts and exclusive packages, including complimentary meals or airport transfers.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Verified Guest Reviews:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Make informed decisions with honest feedback from verified travellers. Ratings and reviews provide detailed insights into service quality, cleanliness, and overall experience so that you can book confidently.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Cancel For No Reason (CFNR):",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Change of plans? No worries. With CFNR you can cancel your hotel booking anytime before check-in and get a full refund, no questions asked. Total freedom. Zero stress.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Match your vibe:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Whether you’re planning a romantic getaway, an adventurous escape, or a laid-back retreat, this feature helps you discover accommodations that perfectly match your mood and travel vibe.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Supercoins:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Get additional discount on your",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "flight bookings",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "& hotel booking using Supercoins. Earn 2 SuperCoins for every ₹100 you spend. SuperCoins will be added to your SuperCoins balance after you have completed the trip.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Advantages of Booking Hotels Online on Cleartrip",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Prime Locations:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Stay close to landmarks, transport hubs, and major attractions.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Modern Amenities:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Get complimentary Wi-Fi, fitness centres, and pools during your hotel stay.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Flexible Policies:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Many hotels offer free cancellations and flexible check-in options.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Special Offers:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Benefit from loyalty rewards, upgrades, and value-added services.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "How to Book Your Stay on Cleartrip?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Follow these simple steps for a quick and easy hotel booking:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Enter your destination, dates, and guest details.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Use filters to sort by price, reviews, or amenities.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Choose a property that meets your needs.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Finalise your reservation by adding guest details and making a payment.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Confirmation:",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Receive an instant booking confirmation through email.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "FAQ: Book Hotels on Cleartrip",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "What types of hotels are available on Cleartrip?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "We provide options ranging from luxury hotels and boutique stays to budget-friendly hotels and family-friendly properties.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "How do I book a hotel on Cleartrip?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Search your destination, select your dates, and browse available options. Complete your hotel booking in just a few simple steps on Cleartrip.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Are there discounts on hotel bookings?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Yes, Cleartrip offers exclusive discounts, deals, and cashback options on select properties.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Can I modify or cancel my hotel reservation?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Depending on the hotel’s cancellation policy, you can adjust or cancel your booking. Review the terms before completing the reservation.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Are the hotel prices displayed per person or room?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "We typically list prices per room unless stated otherwise. Review the total cost of your stay at checkout.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Do I need to pay in advance for the hotel reservation?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Some hotels require advance payment, while others allow pay-at-check-in options. We will share the payment policy during the booking process.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Can I book a hotel for someone else?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Yes, simply provide their details during booking, and they can check in using the confirmation.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Is breakfast included in my hotel stay?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Many hotels offer complimentary breakfast. Filter your search to find options with this feature or check hotel details.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Disclaimer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel amenities, rates, and policies may change based on availability or the time of booking. Always confirm specific details such as cancellation policies, additional charges, or special requirements directly with the hotel before completing your reservation.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Collections",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Gift Cards",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "© 2025 Cleartrip Pvt. Ltd.",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "· Terms of Use",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "· Grievance Redressal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Product Offering",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Flight Booking",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Booking",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bus Booking",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Popular Domestic Flight Routes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi Goa flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai Delhi flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi Kolkata flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Pune Delhi flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore Delhi flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai Bangalore flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Chennai Delhi flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Kolkata Delhi flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi Mumbai flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi Bangalore flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai Goa flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore To Kolkata Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad To Delhi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai To Chennai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad To Bangalore Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Mumbai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Hyderabad Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Pune to Delhi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Hyderabad Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Pune Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Kolkata to Bangalore Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Kolkata Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Kolkata Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad to Mumbai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Ahmedabad Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Ahmedabad Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Chennai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Bhubaneswar Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Lucknow Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Patna Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Jaipur Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Guwahati Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Jaipur to Mumbai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Kochi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Srinagar Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ranchi to Bangalore Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Bagdogra Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Indore Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Popular International Flight Routes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi Singapore flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi Bangkok flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai Dubai flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi Dubai flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to London flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Toronto flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to New york flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Singapore flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Paris flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Paris flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Hong Kong flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Jaipur to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Goa to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Kuwait Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Amritsar to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Dubai to Mumbai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Kathmandu Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Dubai to Delhi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Dubai to Kochi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Kochi to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Kolkata to Bangkok Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to bangkok Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangkok to Phuket Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Bangkok Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Dubai to Kozhikode Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Kozhikode to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangkok to kolkata Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Chennai to Colombo Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Singapore Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Phuket to Bangkok Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangkok to Delhi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Chennai to Singapore Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Sharjah to Trivandrum Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mangalore to Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Dubai to Ahmedabad Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Popular Airline Routes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air India Mumbai Bangalore Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indigo Coimbatore Chennai Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indigo Chandigarh Mumbai Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indigo Guwati Kolkata Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indigo Kolkata Mumbai Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bhutan Airlines Kathmandu to Delhi Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indigo Indore Pune Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Akasa Air Delhi Mumbai Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air India Mumbai Goa Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Spicejet Jaipur Dubai Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indigo Bangalore Delhi Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indigo Mumbai Delhi Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indigo Bangalore Kolkata Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Mumbai Delhi Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Akasa Air Pune Bangalore Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Akasa Air Mumbai Bangalore Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Bangalore Kolkata Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air India Delhi Hyderabad Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air Asia Bangalore Pune Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air Asia Bangalore Kolkata Flight",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Bangalore London Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Bangalore Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara New Delhi Dubai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "SpiceJet Srinagar New Delhi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "SpiceJet New Delhi Srinagar Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "SpiceJet New Delhi Mumbai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air India Dubai Bangalore Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air India New Delhi Abu Dhabi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air India New Delhi Houston Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Goa New Delhi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Kolkata Mumbai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Chennai New Delhi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Chandigarh Mumbai Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Dibrugarh New Delhi Flights",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Popular hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Goa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels In Mumbai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Bangalore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Chennai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Manali",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Shimla",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Pune",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Hyderabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Mahabaleshwar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Ooty",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Kolkata",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Shirdi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Mysore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Munnar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Kodaikanal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Ahmedabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Varanasi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Chandigarh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Lucknow",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Gurgaon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Indore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Noida",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Kochi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Udaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Navi Mumbai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Mussoorie",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Nashik",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Pondicherry",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Amritsar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Dehradun",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Coimbatore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Visakhapatnam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Bhubaneswar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Wayanad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Agra",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotels in Nainital",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Popular Domestic Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air Aisa India",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vistara Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Akasa Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Popular International Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Emirates Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Singapore Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Thai Airways",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Qatar Airways",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Lufthansa Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Flydubai Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Etihad Airways",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "SriLankan Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Malaysia Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air Astana",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Jazeera Airways",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Cathay Pacific",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bhutan Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vietnam Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air Arabia",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "British Airways",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Turkish Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air France",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Biman Bangladesh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Alliance Air",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "China Southern",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air Canada",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Tiger Airways",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Kuwait Airways",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Kenya Airways",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Batik Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Air Mauritius",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Japan Airlines",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Saudi Arabian Air",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "KLM Royal Dutch",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Aer Lingus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Popular Bus Routes",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad to Bangalore Bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Hyderabad Bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indore to Bhopal Bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Chennai Bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Chennai to Bangalore Bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Nagpur to Pune bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bhopal to Indore Bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Pune to Nagpur bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indore to Pune bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Coimbatore bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Pune to Hyderabad bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Coimbatore to Bangalore bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Madurai to Chennai bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Pune to Bangalore bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Pune to Indore bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Visakhapatnam to Hyderabad bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Coimbatore to Chennai bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Chennai to Coimbatore bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Pune bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Indore to Mumbai bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad to Visakhapatnam bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad to Pune bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Vijayawada bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vijayawada to Bangalore bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Indore bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Delhi to Lucknow bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad to Vijayawada bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Lucknow to Delhi bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Goa to Bangalore bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Jaipur to Delhi bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Tirupati bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Mumbai bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vijayawada to Hyderabad bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Goa to Pune bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyderabad to Chennai bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Jaipur to Bikaner bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mumbai to Hyderabad bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Bangalore to Goa bus",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Top Hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Park Chennai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Park Hyderabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Park Bangalore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Country Inn & Suites By Radisson, Sahibabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Park New Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Golden Palms Hotel & Spa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Hindusthan International Bhubaneswar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Four Point by Sheraton Pune",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hyatt Centric Janakpuri New Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Park Classic",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Panchavati Yatri",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Park Kolkata",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Zone By The Park Kolkata",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Welcomhotel by ITC Hotels, Dwarka",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Park Ascent",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Forest Club Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Lemon Tree Premier, Mumbai International Airport",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Roseate House",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramada by Wyndham Chennai Egmore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramada Plaza, Chandigarh, Zirakpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Sahara Star",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Blue Leaf by Papaya Tree Hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Tip Top International",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Chancery Pavillion",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "De sovrani",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Milan International",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Grand Estancia",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Scarlet",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Leisure Inn Grand Chanakya",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Suryaa New Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Fern Residency, Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Palm Meadows Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Seven Seas Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Clarks Amer",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Mountview",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Radisson Blu Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Alleviate",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Metrovista",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Upar Hotels - Nungambakkam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Old Goa Residency (Goa Tourism)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Golden Tulip Suites Gurgaon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Golden Tulip Vasundhara",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Minerva Grand Kondapur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Connaught Royale Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Purple Palms Resort & Spa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Treatotel Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Top 5 Star Hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Welcomhotel by ITC Hotels Dwarka",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramada Plaza Chandigarh Zirakpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Jaypee Siddharth",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Pllazio Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Park Visakhapatnam",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramada By Wyndham Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "St Laurn The Spiritual Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Hindusthan International",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mayfair Lake Resort Raipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The LaLiT Great Eastern Kolkata",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IIDL Suites",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "IIDL Suites New Delhi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Retreat Hotel  Convention Centre",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Mayfair Palm Beach Resort Gopalpur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Swosti Chilika Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Park Regis Goa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramee Grand Hotel and Spa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Orchid Hotel Mumbai Vile Parle",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Vythiri Village",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Anya Gurgaon",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Jaypee Residency Manor",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Regenta Resort Belagavi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "UK27 The Fern   An Ecotel Hotel Belagavi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Fariyas Resort Lonavala",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Radisson Blu Resort  Spa Karjat",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Shakun Hotels And Resorts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Fern An Ecotel Hotel Lonavala",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Crowne Plaza Pune City Centre an IHG Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Clarks Avadh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramada Plaza By Wyndham Palm Grove",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Taj City Centre New Town Kolkata",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Temple Tree Shirdi Newly Renovated",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Top 4 Star Hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Lemon Tree Premier Mumbai International Airport",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Purple Palms Resort Spa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Fern Residency Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "City Park Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Caspia New Delhi Shalimar Bagh",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Four Points By Sheraton Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramada Encore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Dimora Hotels And Resorts",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Aira",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Willow Banks",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Royal Orchid Central Pune",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Ramada",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Regnant",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Binori A Boutique Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Pride Hotel Chennai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Windflower Resorts and Spa Prakruthi Bangalore",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Opulent Hotel By Ferns N Petals",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Renest Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramada by Wyndham New Delhi Pitampura",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Grand Uniara",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Le Royal Park",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hide Away Suites",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Naveen",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ritz Plaza",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Fairfield by Marriott Ahmedabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Clarion Bella Casa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Oyster",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Nirbana Palace A Heritage Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Zone By The Park ORR",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hash Six Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ramee Guestline Dadar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Kohinoor Samudra Beach Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "S K Premium Park",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Grand Plaza",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Hotel Castillo",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "HOTEL ORTUS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Sapphire",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Sterling Yercaud",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Top 3 Star Hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "OYO Townhouse 209 Habitat New Town",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Dodas Palace by ShriGo Hotels",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Centaur Hotel, New Delhi (Near Igi Airport)",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Golden Palms Hotel Spa",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Purple Leaf Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Park View",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Palace Residency",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel G Square Shirdi",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Mumbai House",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Paras Mahal",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Rameswaram Grand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Southwest Inn",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Minerva Grand Tirupati",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Ambassador Hotel Pune",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "7 Apple Hotel Aurangabad",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Shelton Rajamahendri",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Ideal Beach Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Varanasi Inn",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Varuna",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Lotus Sutra Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Tribecca Select",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Channi Raja Mall Road",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "JP Cordial",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Days Hotel Jaipur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Banaras Haveli",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Parle International",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Alba Premier",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Southern",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Doda's Palace",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Citizen Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Leafio Mumbai",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Sawera Grand",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Meritas Crystal Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Beatle Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "The Garden Asia Resort",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Virasat Mahal Heritage Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "FabHotel Prime Orchard Hospitality",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "ibis New Delhi Aerocity Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Lime Boutique Hotel",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Lords Plaza Surat",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Hotel Darshan",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Jyothis Residency Kollur",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Days Hotel By Wyndham Jalandhar",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Log in",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "Search hotels",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.cleartrip.com/hotels",
+      "site": "cleartrip.com",
+      "vertical": "travel",
+      "source": "scraped",
+      "text": "& hotel booking using Supercoins. Earn 2 SuperCoins for every ₹100 you spend. SuperCoins will be added to your SuperCoins balance after you have completed the trip.",
+      "kind": "price"
+    }
+  ],
+  "html_length": 287158
+}

@@ -271,6 +271,10 @@ def run_evaluation() -> dict:
     df_eval["confidence"] = confs
 
     for domain, g in df_eval.groupby(df_eval["site"].astype(str)):
+        # Public corpora use anonymized placeholder domains like "*.example".
+        # For the dashboard, we want only real scraped/seed domains.
+        if str(domain).endswith(".example"):
+            continue
         patterns = g["pred_label"][g["pred_label"].ne("none")].tolist()
         score = compute_manipulation_score(
             int(g["pred_label"].ne("none").sum()),

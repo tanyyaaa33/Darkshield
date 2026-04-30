@@ -1,0 +1,169 @@
+{
+  "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+  "site": "zomato.com",
+  "vertical": "food_delivery",
+  "scraped_at": "2026-04-29T09:01:01.280139+00:00",
+  "records": [
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Zomato Gold",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "GOLD BENEFITS",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Free delivery",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "At all restaurants under 7 km, on orders above ₹199",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Up to 30% extra off",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Above all existing offers at 20,000+ partner restaurants across India",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Which restaurants do I get free delivery on?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Which restaurants do I get an additional offer on?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Do Gold additional offers work on top of coupons (if any)?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Why are dining benefits removed from Gold?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Show more FAQs",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "View Terms & Conditions →",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Join Gold now",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Continue with Email",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sign in with Google",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Sign in with Google. Opens in new tab",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "New to Zomato?",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Create account",
+      "kind": "text"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "Send OTP",
+      "kind": "button"
+    },
+    {
+      "url": "https://www.zomato.com/ncr/gold?ds_page=51",
+      "site": "zomato.com",
+      "vertical": "food_delivery",
+      "source": "scraped",
+      "text": "At all restaurants under 7 km, on orders above ₹199",
+      "kind": "price"
+    }
+  ],
+  "html_length": 70224
+}

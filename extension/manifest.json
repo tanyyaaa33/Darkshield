@@ -17,6 +17,10 @@
     "*://www.myntra.com/*",
     "*://nykaa.com/*",
     "*://www.nykaa.com/*",
+    "*://bigbasket.com/*",
+    "*://www.bigbasket.com/*",
+    "*://cleartrip.com/*",
+    "*://www.cleartrip.com/*",
     "*://swiggy.com/*",
     "*://www.swiggy.com/*",
     "*://irctc.co.in/*",
@@ -43,7 +47,15 @@
         "*://myntra.com/*",
         "*://www.myntra.com/*",
         "*://nykaa.com/*",
-        "*://www.nykaa.com/*"
+        "*://www.nykaa.com/*",
+        "*://bigbasket.com/*",
+        "*://www.bigbasket.com/*",
+        "*://swiggy.com/*",
+        "*://www.swiggy.com/*",
+        "*://cleartrip.com/*",
+        "*://www.cleartrip.com/*",
+        "*://irctc.co.in/*",
+        "*://www.irctc.co.in/*"
       ],
       "js": [
         "utils/classifier.js",
