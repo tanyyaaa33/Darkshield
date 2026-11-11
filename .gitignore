@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .venv/
 ml/models/saved/distilbert_darkshield/
+.chromedriver
+.DS_Store
