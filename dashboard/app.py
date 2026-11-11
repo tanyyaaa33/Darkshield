@@ -170,7 +170,7 @@ if page == "Leaderboard":
         total_patterns = int(top["total_patterns_found"].sum())
         c1, c2, c3 = st.columns(3)
         c1.markdown(
-            f"<div class='ds-card'><div class='ds-eyebrow'>Total Score</div><div class='ds-kpi'>{avg_score:.1f}</div><div class='ds-help'>What this means: average risk in current view.</div></div>",
+            f"<div class='ds-card'><div class='ds-eyebrow'>Average score</div><div class='ds-kpi'>{avg_score:.1f}</div><div class='ds-help'>What this means: average risk in current view.</div></div>",
             unsafe_allow_html=True,
         )
         c2.markdown(
