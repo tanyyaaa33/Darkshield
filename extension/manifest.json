@@ -25,6 +25,8 @@
     "*://www.swiggy.com/*",
     "*://irctc.co.in/*",
     "*://www.irctc.co.in/*",
+    "*://ajio.com/*",
+    "*://www.ajio.com/*",
     "http://localhost:5000/*",
     "http://127.0.0.1:5000/*",
     "http://localhost:5001/*",
@@ -55,7 +57,9 @@
         "*://cleartrip.com/*",
         "*://www.cleartrip.com/*",
         "*://irctc.co.in/*",
-        "*://www.irctc.co.in/*"
+        "*://www.irctc.co.in/*",
+        "*://ajio.com/*",
+        "*://www.ajio.com/*"
       ],
       "js": [
         "utils/classifier.js",
